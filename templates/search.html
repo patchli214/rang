@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>subway-search</title>
+  <style>
+    body{
+      color:#00000;
+      background: #FFFFFF;
+      margin:10px;
+      padding;10px;
+    }
+    .show{
+      color:#0000FF;
+      background: #FFFFFF;
+      margin:5px 0px;
+      padding;0px;
+    }
+  </style>
+  <script src="/static/js/jquery2.min.js"></script>
+</head>
+<body>
+  <form action="/search" method="post">
+    <label>要查找的内容：</label>
+    <input type="text" id="keyword" name="keyword"/>
+    <input type="submit" value="察循" />
+  </form>
+  <p>共找到<span class="show">{{number}}</span>个含有<span class="show">{{keyword}}</span>的地铁站</p>
+  <table>
+    {%if number!=0%}
+    <tr>
+      <td>站名</td>
+      <td>行政区</td>
+      <td>坐标</td>
+      <td>最早开通时间</td>
+    </tr>
+    {%for station in stations%}
+    <tr class="show">
+      <td>{{station.name}}</td>
+      <td>{{station.district}}</td>
+      <td>{{station.longitude}}E {{station.latitude}}N</td>
+      <td>{{station.startdate}}</td>
+    </tr>
+    {%endfor%}
+    {%endif%}
+</table>
+</body>
+</html>
+
+
+<script>
+  function search(){
+      alert('search')
+    $.post("/search",{
+      "keyword":$("#keyword").val()
+  },function (res) {alert('post OK!!!')});
+  }
+</script>
