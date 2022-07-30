@@ -2,8 +2,32 @@ from flask import Flask, render_template, request
 from flask_mongoengine import MongoEngine
 import mongoengine
 
+import socket
+
+s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+s.settimeout(0)
+IP = ''
+try:
+    # doesn't even have to be reachable
+    s.connect(('10.254.254.254', 1))
+    IP = s.getsockname()[0]
+except Exception:
+        IP = '127.0.0.1'
+finally:
+            s.close()
+print('LOCAL:')
+print(IP)
+
+ip = '127.0.0.1'
+
+if IP == '192.168.1.17':
+    ip = '192.168.1.34'
+print('[DB]'+ip)
+mongoengine.connect(host="mongodb://"+ip+":27017/subway")
+
+
 app = Flask(__name__)
-mongoengine.connect(host="mongodb://127.0.0.1:27017/subway")
+#mongoengine.connect(host="mongodb://127.0.0.1:27017/subway")
 
 class station(mongoengine.Document):
     name = mongoengine.StringField()
