@@ -3,7 +3,7 @@ from flask_mongoengine import MongoEngine
 import mongoengine
 
 app = Flask(__name__)
-mongoengine.connect(host="mongodb://192.168.1.34:27017/subway")
+mongoengine.connect(host="mongodb://127.0.0.1:27017/subway")
 
 class station(mongoengine.Document):
     name = mongoengine.StringField()
