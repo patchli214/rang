@@ -1,34 +1,45 @@
-from flask import Flask
+from xpinyin import Pinyin
 
-app = Flask(__name__)
+def removeComment():
+    file = open("/Users/patch/Documents/project/rang/station-comm.json",'r')
+    file2 = open("/Users/patch/Documents/project/rang/station-nolatin.json",'a')
+    lines = file.readlines()
+    for line in lines:
+        if line.find('/*') == -1:
+            file2.writelines([line])
+    print('DONE')
+    return
 
-@app.route("/")
-def hello_world():
-    a = []
-    b=""
-    a.append("<html>")
-    a.append("<head>")
-    a.append("<style>")
-    a.append("p{")
-    a.append("color:#FF8800;")
-    a.append("font-style:courier new;")
-    a.append("font-size:30px;")
-    a.append("background:#0077FF")
-    a.append("}")
-    a.append(".b1{")
-    a.append("background-color: #000000;color:#DDDDDD;padding:20px 35px;text-align: center;font-size: 20px;margin: 8px 5px;}")
-    a.append(".b1:hover{background-color:#FF0000;color:#0000FF}")
-    a.append("</style>")
-    a.append("<title>teeeeeeeeest</title>")
-    a.append("<meta charset=\"utf-8\">")
-    a.append("/<head>")
-    a.append("<body>")
-    a.append("<p>下面的按钮千万别点！！！</p><br><br><br><br><br><br><br><br><br><br><br><br>")
-    a.append("<button class=\"b1\" href=\"https://www.w3schools.com/tags/tag_button.asp\">点这个按钮！</button><br><br><br><br><br><br><br><br>")
-    a.append("<button class=\"b1\" href=\"https://zh.m.wikipedia.org/wiki/Wikipedia:%E5%8B%95%E5%93%A1%E4%BB%A4/%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%AC%A1%E5%8B%95%E5%93%A1%E4%BB%A4\">别点这个按钮！</button><br><br><br><br><br><br><br><br><br><br>")
-    a.append("<button class=\"b1\" href=\"https://map.baidu.com/\">别点这个按钮！</button>")
-    a.append("</body>")
-    a.append("</html>")
-    for i in a:
-        b=b+i
-    return b
+def pinyin():
+    file = open("/Users/patch/Documents/project/rang/station-nolatin.json",'r')
+    file2 = open("/Users/patch/Documents/project/rang/station.json",'a')
+    lines = file.readlines()
+
+    indb = []
+    p = Pinyin()
+    name = ''
+    latin = ''
+    i = 0
+    for line in lines:
+        if line.find('name') > -1:
+            latin = ''
+            name = line[line.find('name')+9:len(line)-3]
+            py = p.get_pinyin(name).split("-")
+            for s in py:
+                latin = latin + s
+
+        elif line.find('\"latin\" : \"\"') > -1:
+            i = i + 1
+            print(latin)
+            line = line.replace('\"latin\" : \"\"','\"latin\" : \"'+latin+'\"')
+            print(line)
+            #file2.writelines([line])
+        file2.writelines([line])
+        #latin = ''
+    file.close()
+    file2.close()
+    return
+
+if __name__ == "__main__":
+    #removeComment()
+    pinyin()
