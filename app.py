@@ -14,9 +14,7 @@ try:
 except Exception:
         IP = '127.0.0.1'
 finally:
-            s.close()
-print('LOCAL:')
-print(IP)
+        s.close()
 
 ip = '127.0.0.1'
 
@@ -25,9 +23,8 @@ if IP == '192.168.1.17':
 print('[DB]'+ip)
 mongoengine.connect(host="mongodb://"+ip+":27017/subway")
 
-
 app = Flask(__name__)
-#mongoengine.connect(host="mongodb://127.0.0.1:27017/subway")
+
 
 class station(mongoengine.Document):
     name = mongoengine.StringField()
@@ -73,13 +70,18 @@ def hello_world():
 def test2():
     stations=station.objects().order_by('latin')
     return render_template('/test2.html', test="13",stations=stations)
+
 @app.route("/search", methods=['GET', 'POST'])
 def search():
     stations=[]
-    print('[enter search]')
+    #print('[enter search]')
     keyword = ''
+    n = 0
     if request.method == "POST":
-        print('[POST!!!!!!!!!!!!!!!!]')
-        keyword=request.form['keyword']
-        stations=station.objects(name__contains=keyword).order_by('latin')
-    return render_template('/search.html',stations=stations,number=len(stations),keyword=keyword)
+        try:
+            keyword=request.form['keyword']
+            stations=station.objects(name__contains=keyword).order_by('latin')
+            n = len(stations)
+        except:
+            err = 1
+    return render_template('/search.html',stations=stations,number=n,keyword=keyword)

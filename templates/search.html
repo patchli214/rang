@@ -27,7 +27,7 @@
   </form>
   <p>共找到<span class="show">{{number}}</span>个含有<span class="show">{{keyword}}</span>的地铁站</p>
   <table>
-    {%if number!=0%}
+    {%if number>0%}
     <tr>
       <td>站名</td>
       <td>行政区</td>
@@ -39,7 +39,7 @@
       <td>{{station.name}}</td>
       <td>{{station.district}}</td>
       <td>{{station.longitude}}E {{station.latitude}}N</td>
-      <td>{{station.startdate}}</td>
+      <td>{{station.startdate.strftime('%Y-%m-%d') }}</td>
     </tr>
     {%endfor%}
     {%endif%}
@@ -49,10 +49,5 @@
 
 
 <script>
-  function search(){
-      alert('search')
-    $.post("/search",{
-      "keyword":$("#keyword").val()
-  },function (res) {alert('post OK!!!')});
-  }
+
 </script>

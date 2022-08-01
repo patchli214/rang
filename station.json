@@ -1,0 +1,4208 @@
+{
+    "_id" : ObjectId("62df776dde912e90563adb5d"),
+    "name" : "东管头南",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.316661",
+    "latitude" : "39.853142",
+    "district" : "丰台区",
+    "latin" : "dongguantounan"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb60"),
+    "name" : "花乡东桥",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.313899",
+    "latitude" : "39.827783",
+    "district" : "丰台区",
+    "latin" : "huaxiangdongqiao"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb63"),
+    "name" : "白盆窑",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.30724",
+    "latitude" : "39.818147",
+    "district" : "丰台区",
+    "latin" : "baipenyao"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb66"),
+    "name" : "大葆台",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.291498",
+    "latitude" : "39.807704",
+    "district" : "丰台区",
+    "latin" : "dabaotai"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adc90"),
+    "name" : "旧宫",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.442453",
+    "latitude" : "39.832817",
+    "district" : "大兴区",
+    "latin" : "jiugong"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adc93"),
+    "name" : "亦庄桥",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.474231",
+    "latitude" : "39.801744",
+    "district" : "大兴区",
+    "latin" : "yizhuangqiao"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adc96"),
+    "name" : "亦庄文化园",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.484622",
+    "latitude" : "39.805639",
+    "district" : "大兴区",
+    "latin" : "yizhuangwenhuayuan"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adc99"),
+    "name" : "万源街",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.499536",
+    "latitude" : "39.801747",
+    "district" : "大兴区",
+    "latin" : "wanyuanjie"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adc9c"),
+    "name" : "荣京东街",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.507464",
+    "latitude" : "39.692006",
+    "district" : "大兴区",
+    "latin" : "rongjingdongjie"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adc9f"),
+    "name" : "荣昌东街",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.515833",
+    "latitude" : "39.781667",
+    "district" : "大兴区",
+    "latin" : "rongchangdongjie"
+}
+
+{
+    "_id" : ObjectId("62df7b7ede912e90563adec2"),
+    "name" : "大兴新城",
+    "startdate" : ISODate("2019-09-26T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.35943",
+    "latitude" : "39.73609",
+    "district" : "大兴区",
+    "latin" : "daxingxincheng"
+}
+
+{
+    "_id" : ObjectId("62df7b7ede912e90563adec5"),
+    "name" : "大兴机场",
+    "startdate" : ISODate("2019-09-26T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.409934",
+    "latitude" : "39.513921",
+    "district" : "大兴区",
+    "latin" : "daxingjichang"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2b1"),
+    "name" : "屈庄(奔驰南)",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.501214",
+    "latitude" : "39.713691",
+    "district" : "大兴区",
+    "latin" : "quzhuang(benchinan)"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2b4"),
+    "name" : "融兴街",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.499436",
+    "latitude" : "39.720752",
+    "district" : "大兴区",
+    "latin" : "rongxingjie"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2b7"),
+    "name" : "瑞合庄",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.497632",
+    "latitude" : "39.727859",
+    "district" : "大兴区",
+    "latin" : "ruihezhuang"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2ba"),
+    "name" : "太和桥北",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.495827",
+    "latitude" : "39.739901",
+    "district" : "大兴区",
+    "latin" : "taiheqiaobei"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2bd"),
+    "name" : "四海庄",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.498607",
+    "latitude" : "39.745473",
+    "district" : "大兴区",
+    "latin" : "sihaizhuang"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2c0"),
+    "name" : "九号村（奔驰北）",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.502756",
+    "latitude" : "39.753797",
+    "district" : "大兴区",
+    "latin" : "jiuhaocun（benchibei）"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2c3"),
+    "name" : "泰河路",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.505425",
+    "latitude" : "39.758882",
+    "district" : "大兴区",
+    "latin" : "taihelu"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2c6"),
+    "name" : "鹿圈东",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.508094",
+    "latitude" : "39.765194",
+    "district" : "大兴区",
+    "latin" : "luquandong"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2c9"),
+    "name" : "亦庄同仁",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.512321",
+    "latitude" : "116.512321",
+    "district" : "大兴区",
+    "latin" : "yizhuangtongren"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2cc"),
+    "name" : "亦创会展中心",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.52155",
+    "latitude" : "39.7832",
+    "district" : "大兴区",
+    "latin" : "yichuanghuizhanzhongxin"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb69"),
+    "name" : "稻田",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.220692",
+    "latitude" : "39.792048",
+    "district" : "房山区",
+    "latin" : "daotian"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb6c"),
+    "name" : "长阳",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.212545",
+    "latitude" : "39.763718",
+    "district" : "房山区",
+    "latin" : "changyang"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb6f"),
+    "name" : "篱笆房",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.187718",
+    "latitude" : "39.764896",
+    "district" : "房山区",
+    "latin" : "libafang"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb72"),
+    "name" : "广阳城",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.184959",
+    "latitude" : "39.747974",
+    "district" : "房山区",
+    "latin" : "guangyangcheng"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb75"),
+    "name" : "良乡大学城北",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.166786",
+    "latitude" : "39.725487",
+    "district" : "房山区",
+    "latin" : "liangxiangdaxuechengbei"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb78"),
+    "name" : "良乡大学城",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.170178",
+    "latitude" : "39.721844",
+    "district" : "房山区",
+    "latin" : "liangxiangdaxuecheng"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb7b"),
+    "name" : "良乡大学城西",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.15003",
+    "latitude" : "39.72186",
+    "district" : "房山区",
+    "latin" : "liangxiangdaxuechengxi"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb7e"),
+    "name" : "良乡南关",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.142151",
+    "latitude" : "39.724991",
+    "district" : "房山区",
+    "latin" : "liangxiangnanguan"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb81"),
+    "name" : "苏庄",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.11892",
+    "latitude" : "39.72187",
+    "district" : "房山区",
+    "latin" : "suzhuang"
+}
+
+{
+    "_id" : ObjectId("62df776dde912e90563adb84"),
+    "name" : "阎村东",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.094485",
+    "latitude" : "39.72757",
+    "district" : "房山区",
+    "latin" : "yancundong"
+}
+
+{
+    "_id" : ObjectId("62df7923de912e90563adcce"),
+    "name" : "紫草坞",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.080369",
+    "latitude" : "39.72308",
+    "district" : "房山区",
+    "latin" : "zicaowu"
+}
+
+{
+    "_id" : ObjectId("62df7923de912e90563adcd1"),
+    "name" : "阎村",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.073969",
+    "latitude" : "39.715276",
+    "district" : "房山区",
+    "latin" : "yancun"
+}
+
+{
+    "_id" : ObjectId("62df7923de912e90563adcd4"),
+    "name" : "星城",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.055057",
+    "latitude" : "39.712247",
+    "district" : "房山区",
+    "latin" : "xingcheng"
+}
+
+{
+    "_id" : ObjectId("62df7923de912e90563adcd7"),
+    "name" : "大石河东",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.033674",
+    "latitude" : "39.7085",
+    "district" : "房山区",
+    "latin" : "dashihedong"
+}
+
+{
+    "_id" : ObjectId("62df7923de912e90563adcda"),
+    "name" : "马各庄",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.010542",
+    "latitude" : "39.703788",
+    "district" : "房山区",
+    "latin" : "magezhuang"
+}
+
+{
+    "_id" : ObjectId("62df7923de912e90563adcdd"),
+    "name" : "饶乐府",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "115.999995",
+    "latitude" : "39.700194",
+    "district" : "房山区",
+    "latin" : "raolefu"
+}
+
+{
+    "_id" : ObjectId("62df7923de912e90563adce0"),
+    "name" : "房山城关",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "115.983551",
+    "latitude" : "39.70481",
+    "district" : "房山区",
+    "latin" : "fangshanchengguan"
+}
+
+{
+    "_id" : ObjectId("62df7923de912e90563adce3"),
+    "name" : "燕山",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "115.967389",
+    "latitude" : "39.718461",
+    "district" : "房山区",
+    "latin" : "yanshan"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adc8a"),
+    "name" : "肖村",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.442453",
+    "latitude" : "39.832817",
+    "district" : "朝阳区",
+    "latin" : "xiaocun"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adc8d"),
+    "name" : "小红门",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.453206",
+    "latitude" : "39.826529",
+    "district" : "朝阳区",
+    "latin" : "xiaohongmen"
+}
+
+{
+    "_id" : ObjectId("62df7b7fde912e90563adec8"),
+    "name" : "2号航站楼",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.592778",
+    "latitude" : "40.079444",
+    "district" : "朝阳区",
+    "latin" : "2haohangzhanlou"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adca2"),
+    "name" : "同济南路",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.533961",
+    "latitude" : "39.771811",
+    "district" : "通州区",
+    "latin" : "tongjinanlu"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adca5"),
+    "name" : "经海路",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.556436",
+    "latitude" : "39.782583",
+    "district" : "通州区",
+    "latin" : "jinghailu"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adca8"),
+    "name" : "次渠南",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.575528",
+    "latitude" : "39.794006",
+    "district" : "通州区",
+    "latin" : "ciqunan"
+}
+
+{
+    "_id" : ObjectId("62df78f2de912e90563adcab"),
+    "name" : "亦庄火车站",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.595375",
+    "latitude" : "39.811075",
+    "district" : "通州区",
+    "latin" : "yizhuanghuochezhan"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2cf"),
+    "name" : "经海一路（京东方）",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.534998",
+    "latitude" : "39.789681",
+    "district" : "通州区",
+    "latin" : "jinghaiyilu（jingdongfang）"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2d2"),
+    "name" : "定海园西",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.547449",
+    "latitude" : "39.795703",
+    "district" : "通州区",
+    "latin" : "dinghaiyuanxi"
+}
+
+{
+    "_id" : ObjectId("62df7e65de912e90563ae2d5"),
+    "name" : "定海园",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.556462",
+    "latitude" : "39.800043",
+    "district" : "通州区",
+    "latin" : "dinghaiyuan"
+}
+
+{
+    "_id" : ObjectId("62df7e1bde912e90563ae232"),
+    "name" : "石厂",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.093925",
+    "latitude" : "39.887855",
+    "district" : "门头沟区",
+    "latin" : "shichang"
+}
+
+{
+    "_id" : ObjectId("62df7e1bde912e90563ae235"),
+    "name" : "小园",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.108117",
+    "latitude" : "39.888996",
+    "district" : "门头沟区",
+    "latin" : "xiaoyuan"
+}
+
+{
+    "_id" : ObjectId("62df7e1bde912e90563ae238"),
+    "name" : "栗园庄",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.116922",
+    "latitude" : "39.894304",
+    "district" : "门头沟区",
+    "latin" : "liyuanzhuang"
+}
+
+{
+    "_id" : ObjectId("62df7e1bde912e90563ae23b"),
+    "name" : "上岸",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.115895",
+    "latitude" : "39.903684",
+    "district" : "门头沟区",
+    "latin" : "shangan"
+}
+
+{
+    "_id" : ObjectId("62df7e1bde912e90563ae23e"),
+    "name" : "桥户营",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.119493",
+    "latitude" : "39.910956",
+    "district" : "门头沟区",
+    "latin" : "qiaohuying"
+}
+
+{
+    "_id" : ObjectId("62df7e1bde912e90563ae241"),
+    "name" : "四道桥",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.127707",
+    "latitude" : "39.914623",
+    "district" : "门头沟区",
+    "latin" : "sidaoqiao"
+}
+
+{
+    "_id" : ObjectId("62df7b7fde912e90563adecb"),
+    "name" : "3号航站楼",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.60987",
+    "latitude" : "40.05177",
+    "district" : "顺义区",
+    "latin" : "3haohangzhanlou"
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04c8"),
+    "name" : "安德里北街",
+    "startdate" : ISODate("2015-12-26T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.394608",
+    "latitude" : "39.96863",
+    "district" : "东城区",
+    "latin" : "andelibeijie"
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a51b6"),
+    "name" : "安定门",
+    "district" : "东城区",
+    "code" : 216,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.408228",
+    "latitude" : "39.949179",
+    "latin" : "andingmen",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a854d"),
+    "name" : "安河桥北",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.263864",
+    "latitude" : "40.01105",
+    "district" : "海淀区",
+    "latin" : "anheqiaobei"
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04c5"),
+    "name" : "安华桥",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.394608",
+    "latitude" : "39.96863",
+    "district" : "朝阳区-西城区",
+    "latin" : "anhuaqiao"
+}
+
+{
+    "_id" : ObjectId("62de4277de912e90563a606b"),
+    "name" : "安立路",
+    "district" : "朝阳区",
+    "latin" : "anlilu",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.407812",
+    "latitude" : "40.00267",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a781a"),
+    "name" : "安贞门",
+    "district" : "朝阳区",
+    "latin" : "anzhenmen",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.405954",
+    "latitude" : "39.977005",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd0dcde912e90563a023b"),
+    "name" : "奥林匹克公园",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.38685244",
+    "latitude" : "40.001125",
+    "district" : "朝阳区",
+    "latin" : "aolinpikegongyuan"
+}
+
+{
+    "_id" : ObjectId("62dbd0dcde912e90563a023e"),
+    "name" : "奥体中心",
+    "startdate" : ISODate("2008-10-09T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.392807",
+    "latitude" : "39.985093",
+    "district" : "朝阳区",
+    "latin" : "aotizhongxin"
+}
+
+{
+    "_id" : ObjectId("62de7e0dde912e90563a79f3"),
+    "name" : "八宝山",
+    "district" : "石景山区",
+    "latin" : "babaoshan",
+    "startdate" : ISODate("1971-11-07T00:00:00.000Z"),
+    "longitude" : "116.229672",
+    "latitude" : "39.906131",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de58b1de912e90563a6de2"),
+    "name" : "巴沟",
+    "district" : "海淀区",
+    "latin" : "bagou",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.293727",
+    "latitude" : "39.974179",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb9b1de912e90563a8fad"),
+    "name" : "白堆子",
+    "district" : "海淀区",
+    "latin" : "baiduizi",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.325767",
+    "latitude" : "39.923924",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea45cde912e90563a897c"),
+    "name" : "白石桥南",
+    "district" : "海淀区",
+    "latin" : "baishiqiaonan",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.31938",
+    "latitude" : "39.93125",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb3a0de912e90563a8dea"),
+    "name" : "百子湾",
+    "district" : "朝阳区",
+    "latin" : "baiziwan",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.491557",
+    "latitude" : "39.891288",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7e0dde912e90563a79f0"),
+    "name" : "八角游乐园",
+    "district" : "石景山区",
+    "latin" : "bajiaoyouleyuan",
+    "startdate" : ISODate("1971-11-07T00:00:00.000Z"),
+    "longitude" : "116.212684",
+    "latitude" : "39.907442",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9194de912e90563a80fe"),
+    "name" : "八里桥",
+    "district" : "朝阳区",
+    "latin" : "baliqiao",
+    "startdate" : ISODate("2003-12-27T00:00:00.000Z"),
+    "longitude" : "116.593234",
+    "latitude" : "39.908021",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6bd4"),
+    "name" : "北安河",
+    "district" : "海淀区",
+    "latin" : "beianhe",
+    "startdate" : ISODate("2016-12-31T00:00:00.000Z"),
+    "longitude" : "116.1243",
+    "latitude" : "40.066863",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6dde912e90563a5bde"),
+    "name" : "北工大西门",
+    "startdate" : ISODate("2015-12-26T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.47136",
+    "latitude" : "39.8736",
+    "district" : "朝阳区",
+    "latin" : "beigongdaximen"
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8550"),
+    "name" : "北宫门",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.271211",
+    "latitude" : "40.001225",
+    "district" : "海淀区",
+    "latin" : "beigongmen"
+}
+
+{
+    "_id" : ObjectId("62dea5e3de912e90563a89ed"),
+    "name" : "北海北",
+    "district" : "西城区",
+    "latin" : "beihaibei",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.380324",
+    "latitude" : "39.93184",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a51a4"),
+    "name" : "北京站",
+    "district" : "东城区",
+    "code" : 210,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.420935",
+    "latitude" : "39.903545",
+    "latin" : "beijing",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8556"),
+    "name" : "北京大学东门",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.309653",
+    "latitude" : "39.990822",
+    "district" : "海淀区",
+    "latin" : "beijingdaxuedongmen"
+}
+
+{
+    "_id" : ObjectId("62de3b6dde912e90563a5bd2"),
+    "name" : "北京南站",
+    "startdate" : ISODate("2015-12-26T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.372573",
+    "latitude" : "39.863546",
+    "district" : "丰台区",
+    "latin" : "beijingnan"
+}
+
+{
+    "_id" : ObjectId("62deb3a0de912e90563a8dcc"),
+    "name" : "北京西站",
+    "district" : "丰台区",
+    "latin" : "beijingxi",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "longitude" : "116.314922",
+    "latitude" : "39.893544",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62db470e349e7d6dbd023ff8"),
+    "name" : "北邵洼",
+    "startdate" : ISODate("2015-12-16T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.28226044",
+    "latitude" : "40.2219437",
+    "district" : "昌平区",
+    "latin" : "beishaowa"
+}
+
+{
+    "_id" : ObjectId("62de3f5bde912e90563a5f69"),
+    "name" : "北沙滩",
+    "district" : "海淀区",
+    "latin" : "beishatan",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.369041",
+    "latitude" : "40.001523",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62debd61de912e90563a90c6"),
+    "name" : "北神树",
+    "district" : "通州区",
+    "latin" : "beishenshu",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "longitude" : "116.5467",
+    "latitude" : "39.81756",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd0ddde912e90563a0241"),
+    "name" : "北土城",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.38797",
+    "latitude" : "39.97570",
+    "district" : "朝阳区",
+    "latin" : "beitucheng"
+}
+
+{
+    "_id" : ObjectId("62debb27de912e90563a9024"),
+    "name" : "北辛安",
+    "district" : "石景山区",
+    "latin" : "beixinan",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "longitude" : "116.158449",
+    "latitude" : "39.913424",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cca"),
+    "name" : "北新桥",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.410747",
+    "latitude" : "39.939511",
+    "district" : "东城区",
+    "latin" : "beixinqiao"
+}
+
+{
+    "_id" : ObjectId("62ddef28de912e90563a4348"),
+    "name" : "北苑",
+    "startdate" : ISODate("2003-01-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.42824",
+    "latitude" : "40.04162",
+    "district" : "朝阳区",
+    "latin" : "beiyuan"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cb5"),
+    "name" : "北苑路北",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.411867",
+    "latitude" : "40.028911",
+    "district" : "朝阳区",
+    "latin" : "beiyuanlubei"
+}
+
+{
+    "_id" : ObjectId("62dea6f0de912e90563a8a63"),
+    "name" : "北运河东",
+    "district" : "通州区",
+    "latin" : "beiyunhedong",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "longitude" : "116.701131",
+    "latitude" : "39.902006",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea6f0de912e90563a8a60"),
+    "name" : "北运河西",
+    "district" : "通州区",
+    "latin" : "beiyunhexi",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.682545",
+    "latitude" : "39.901639",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5bc9"),
+    "name" : "菜户营",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.33667",
+    "latitude" : "39.86627",
+    "district" : "丰台区",
+    "latin" : "caihuying"
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8574"),
+    "name" : "菜市口",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.368145",
+    "latitude" : "39.887821",
+    "district" : "西城区",
+    "latin" : "caishikou"
+}
+
+{
+    "_id" : ObjectId("62dea5e3de912e90563a8a02"),
+    "name" : "草房",
+    "district" : "朝阳区",
+    "latin" : "caofang",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.609583",
+    "latitude" : "39.923204",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a7911"),
+    "name" : "草桥",
+    "district" : "丰台区",
+    "latin" : "caoqiao",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.345326",
+    "latitude" : "39.844595",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a5195"),
+    "name" : "长椿街",
+    "district" : "西城区",
+    "code" : 205,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.363354",
+    "latitude" : "39.899467",
+    "latin" : "changchunjie",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a7935"),
+    "name" : "长春桥",
+    "district" : "海淀区",
+    "latin" : "changchunqiao",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.293232",
+    "latitude" : "39.960389",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62db4701349e7d6dbd023fea"),
+    "name" : "昌平",
+    "startdate" : ISODate("2015-12-16T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.227499",
+    "latitude" : "40.2192771",
+    "district" : "昌平区",
+    "latin" : "changping"
+}
+
+{
+    "_id" : ObjectId("62db4708349e7d6dbd023ff4"),
+    "name" : "昌平东关",
+    "startdate" : ISODate("2015-12-16T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.2619722",
+    "latitude" : "40.2217771",
+    "district" : "昌平区",
+    "latin" : "changpingdongguan"
+}
+
+{
+    "_id" : ObjectId("62db46c4349e7d6dbd023fce"),
+    "name" : "昌平西山口",
+    "startdate" : ISODate("2015-12-16T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.1956385",
+    "latitude" : "40.2445274",
+    "district" : "昌平区",
+    "latin" : "changpingxishankou"
+}
+
+{
+    "_id" : ObjectId("62dea5e3de912e90563a89ff"),
+    "name" : "常营",
+    "district" : "朝阳区",
+    "latin" : "changying",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.59384",
+    "latitude" : "39.924571",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9490de912e90563a835c"),
+    "name" : "茶棚",
+    "district" : "海淀区",
+    "latin" : "chapeng",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "longitude" : "116.24204",
+    "latitude" : "39.98088",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a7932"),
+    "name" : "车道沟",
+    "district" : "海淀区",
+    "latin" : "chedaogou",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.293818",
+    "latitude" : "39.947923",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a518c"),
+    "name" : "车公庄",
+    "district" : "西城区",
+    "code" : 202,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.354424",
+    "latitude" : "39.932365",
+    "latin" : "chegongzhuang",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea5e3de912e90563a89e7"),
+    "name" : "车公庄西",
+    "district" : "西城区",
+    "latin" : "chegongzhuangxi",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.337992",
+    "latitude" : "39.931098",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a7844"),
+    "name" : "成寿寺",
+    "district" : "丰台区-朝阳区",
+    "latin" : "chengshousi",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.442092",
+    "latitude" : "39.844487",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a51a1"),
+    "name" : "崇文门",
+    "district" : "东城区",
+    "code" : 209,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.412239",
+    "latitude" : "39.899731",
+    "latin" : "chongwenmen",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9194de912e90563a80f5"),
+    "name" : "传媒大学",
+    "district" : "朝阳区",
+    "latin" : "chuanmeidaxue",
+    "startdate" : ISODate("2003-12-27T00:00:00.000Z"),
+    "longitude" : "116.548813",
+    "latitude" : "39.908045",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cdc"),
+    "name" : "磁器口",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.419256",
+    "latitude" : "39.893111",
+    "district" : "东城区",
+    "latin" : "ciqikou"
+}
+
+{
+    "_id" : ObjectId("62debd61de912e90563a90cc"),
+    "name" : "次渠",
+    "district" : "通州区",
+    "latin" : "ciqu",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "longitude" : "116.585669",
+    "latitude" : "39.802614",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62debd61de912e90563a90c9"),
+    "name" : "次渠北",
+    "district" : "通州区",
+    "latin" : "ciqubei",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "longitude" : "116.57058",
+    "latitude" : "39.80861",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a792f"),
+    "name" : "慈寿寺",
+    "district" : "海淀区",
+    "latin" : "cishousi",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.295178",
+    "latitude" : "39.933268",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de4790de912e90563a6484"),
+    "name" : "崔各庄",
+    "district" : "朝阳区",
+    "latin" : "cuigezhuang",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "longitude" : "116.486806",
+    "latitude" : "40.020197",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb3a0de912e90563a8dd2"),
+    "name" : "达官营",
+    "district" : "西城区",
+    "latin" : "daguanying",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.330051",
+    "latitude" : "39.888535",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a7908"),
+    "name" : "大红门",
+    "district" : "丰台区",
+    "latin" : "dahongmen",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.393443",
+    "latitude" : "39.843661",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd80ade912e90563a05cd"),
+    "name" : "大红门南",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.394849",
+    "latitude" : "39.835265",
+    "district" : "丰台区",
+    "latin" : "dahongmennan"
+}
+
+{
+    "_id" : ObjectId("62deb3a0de912e90563a8de7"),
+    "name" : "大郊亭",
+    "district" : "朝阳区",
+    "latin" : "dajiaoting",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.48164",
+    "latitude" : "39.89207",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5bba"),
+    "name" : "大井",
+    "startdate" : ISODate("2013-05-05T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.276061",
+    "latitude" : "39.865226",
+    "district" : "丰台区",
+    "latin" : "dajing"
+}
+
+{
+    "_id" : ObjectId("62dea5e3de912e90563a89f9"),
+    "name" : "褡裢坡",
+    "district" : "朝阳区",
+    "latin" : "dalianpo",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.557578",
+    "latitude" : "39.922735",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6bda"),
+    "name" : "稻香湖路",
+    "district" : "海淀区",
+    "latin" : "daoxianghulu",
+    "startdate" : ISODate("2016-12-31T00:00:00.000Z"),
+    "longitude" : "116.182325",
+    "latitude" : "40.06765",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cb8"),
+    "name" : "大屯路东",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.411167",
+    "latitude" : "40.002294",
+    "district" : "朝阳区",
+    "latin" : "datunludong"
+}
+
+{
+    "_id" : ObjectId("62de3b6dde912e90563a5be7"),
+    "name" : "大望路",
+    "startdate" : ISODate("1999-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.471719",
+    "latitude" : "39.906833",
+    "district" : "朝阳区",
+    "latin" : "dawanglu"
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5bb2"),
+    "name" : "大瓦窑",
+    "startdate" : ISODate("2013-05-05T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.24032",
+    "latitude" : "39.859338",
+    "district" : "丰台区",
+    "latin" : "dawayao"
+}
+
+{
+    "_id" : ObjectId("62ddef28de912e90563a4336"),
+    "name" : "大钟寺",
+    "startdate" : ISODate("2002-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.338333",
+    "latitude" : "39.965",
+    "district" : "海淀区",
+    "latin" : "dazhongsi"
+}
+
+{
+    "_id" : ObjectId("62dbd80ade912e90563a05dc"),
+    "name" : "德茂",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.435509",
+    "latitude" : "39.771255",
+    "district" : "大兴区",
+    "latin" : "demao"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cd3"),
+    "name" : "灯市口",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.417785",
+    "latitude" : "39.917135",
+    "district" : "东城区",
+    "latin" : "dengshikou"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cd6"),
+    "name" : "东单",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.412046",
+    "latitude" : "39.906798",
+    "district" : "东城区",
+    "latin" : "dongdan"
+}
+
+{
+    "_id" : ObjectId("62dea5e3de912e90563a89f0"),
+    "name" : "东大桥",
+    "district" : "朝阳区",
+    "latin" : "dongdaqiao",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.4455",
+    "latitude" : "39.9215",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6ede912e90563a5bf3"),
+    "name" : "东风北桥",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.486697",
+    "latitude" : "39.957614",
+    "district" : "朝阳区",
+    "latin" : "dongfengbeiqiao"
+}
+
+{
+    "_id" : ObjectId("62dbd80ade912e90563a05d3"),
+    "name" : "东高地",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.403484",
+    "latitude" : "39.803813",
+    "district" : "丰台区",
+    "latin" : "donggaodi"
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5bc3"),
+    "name" : "东管头",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.31469",
+    "latitude" : "39.86616",
+    "district" : "丰台区",
+    "latin" : "dongguantou"
+}
+
+{
+    "_id" : ObjectId("62de3b6ede912e90563a5c02"),
+    "name" : "东湖渠",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.467364",
+    "latitude" : "40.010225",
+    "district" : "朝阳区",
+    "latin" : "donghuqu"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cd0"),
+    "name" : "东四",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.410747",
+    "latitude" : "39.939511",
+    "district" : "东城区",
+    "latin" : "dongsi"
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a51ad"),
+    "name" : "东四十条",
+    "district" : "东城区",
+    "code" : 213,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.433945",
+    "latitude" : "39.931305",
+    "latin" : "dongsishitiao",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8565"),
+    "name" : "动物园",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.332767",
+    "latitude" : "39.937119",
+    "district" : "西城区",
+    "latin" : "dongwuyuan"
+}
+
+{
+    "_id" : ObjectId("62dea6f0de912e90563a8a69"),
+    "name" : "东夏园",
+    "district" : "通州区",
+    "latin" : "dongxiayuan",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.727369",
+    "latitude" : "39.902189",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a51b0"),
+    "name" : "东直门",
+    "district" : "东城区",
+    "code" : 214,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.428056",
+    "latitude" : "39.94",
+    "latin" : "dongzhimen",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea45cde912e90563a897f"),
+    "name" : "二里沟",
+    "district" : "海淀区-西城区",
+    "latin" : "erligou",
+    "startdate" : null,
+    "longitude" : "116.327294",
+    "latitude" : "39.931025",
+    "isRunning" : false
+}
+
+{
+    "_id" : ObjectId("62de3b6dde912e90563a5bd8"),
+    "name" : "方庄",
+    "startdate" : ISODate("2015-12-26T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.434167",
+    "latitude" : "39.864526",
+    "district" : "丰台区",
+    "latin" : "fangzhuang"
+}
+
+{
+    "_id" : ObjectId("62deb47cde912e90563a8e2e"),
+    "name" : "垡头",
+    "district" : "朝阳区",
+    "latin" : "fatou",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "longitude" : "116.505918",
+    "latitude" : "39.859488",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de4c5ede912e90563a68ce"),
+    "name" : "俸伯",
+    "district" : "顺义区",
+    "latin" : "fengbo",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "longitude" : "116.702669",
+    "latitude" : "40.133336",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a791a"),
+    "name" : "丰台站",
+    "district" : "丰台区",
+    "latin" : "fengtai",
+    "startdate" : ISODate("2013-05-05T00:00:00.000Z"),
+    "longitude" : "116.294567",
+    "latitude" : "39.849772",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb9b1de912e90563a8fb3"),
+    "name" : "丰台东大街",
+    "district" : "丰台区",
+    "latin" : "fengtaidongdajie",
+    "startdate" : ISODate("2012-10-12T00:00:00.000Z"),
+    "longitude" : "116.293833",
+    "latitude" : "39.855123",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb9b1de912e90563a8fbc"),
+    "name" : "丰台科技园",
+    "district" : "丰台区",
+    "latin" : "fengtaikejiyuan",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "longitude" : "116.297",
+    "latitude" : "39.825324",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb9b1de912e90563a8fb6"),
+    "name" : "丰台南路",
+    "district" : "丰台区",
+    "latin" : "fengtainanlu",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "longitude" : "116.296748",
+    "latitude" : "39.840444",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a7841"),
+    "name" : "分钟寺",
+    "district" : "丰台区-朝阳区",
+    "latin" : "fenzhongsi",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.447844",
+    "latitude" : "39.850417",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a518f"),
+    "name" : "阜成门",
+    "district" : "西城区",
+    "code" : 203,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.356012",
+    "latitude" : "39.923501",
+    "latin" : "fuchengmen",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7e0dde912e90563a79e7"),
+    "name" : "福寿岭",
+    "district" : "石景山区",
+    "latin" : "fushouling",
+    "startdate" : null,
+    "longitude" : "116.165469",
+    "latitude" : "39.938694",
+    "isRunning" : false
+}
+
+{
+    "_id" : ObjectId("62de3b6ede912e90563a5bfc"),
+    "name" : "阜通",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.470142",
+    "latitude" : "39.992683",
+    "district" : "朝阳区",
+    "latin" : "futong"
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a5192"),
+    "name" : "复兴门",
+    "district" : "西城区",
+    "code" : 204,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.350072",
+    "latitude" : "39.905978",
+    "latin" : "fuxingmen",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6bfe"),
+    "name" : "甘家口",
+    "district" : "西城区",
+    "latin" : "ganjiakou",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "longitude" : "116.328378",
+    "latitude" : "39.921805",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9194de912e90563a80f2"),
+    "name" : "高碑店",
+    "district" : "朝阳区",
+    "latin" : "gaobeidian",
+    "startdate" : ISODate("2003-12-27T00:00:00.000Z"),
+    "longitude" : "116.525483",
+    "latitude" : "39.908225",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb545de912e90563a8e7c"),
+    "name" : "高楼金",
+    "district" : "通州区",
+    "latin" : "gaoloujin",
+    "startdate" : ISODate("2019-12-28T00:00:00.000Z"),
+    "longitude" : "116.6794",
+    "latitude" : "39.86189",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8586"),
+    "name" : "高米店北",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.324353",
+    "latitude" : "39.774469",
+    "district" : "大兴区",
+    "latin" : "gaomidianbei"
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8589"),
+    "name" : "高米店南",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.324686",
+    "latitude" : "39.763811",
+    "district" : "大兴区",
+    "latin" : "gaomidiannan"
+}
+
+{
+    "_id" : ObjectId("62db4723349e7d6dbd02400c"),
+    "name" : "巩华城",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.49306911",
+    "latitude" : "40.219691",
+    "district" : "昌平区",
+    "latin" : "gonghuacheng"
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a857d"),
+    "name" : "公益西桥",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.359353",
+    "latitude" : "39.811133",
+    "district" : "丰台区",
+    "latin" : "gongyixiqiao"
+}
+
+{
+    "_id" : ObjectId("62de8025de912e90563a7a8e"),
+    "name" : "公主坟",
+    "district" : "海淀区",
+    "latin" : "gongzhufen",
+    "startdate" : ISODate("1971-01-15T00:00:00.000Z"),
+    "longitude" : "116.304192",
+    "latitude" : "39.906256",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb3a0de912e90563a8dd5"),
+    "name" : "广安门内",
+    "district" : "西城区",
+    "latin" : "guanganmennei",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.351727",
+    "latitude" : "39.888568",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb3a0de912e90563a8de1"),
+    "name" : "广渠门内",
+    "district" : "东城区",
+    "latin" : "guangqumennei",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.427299",
+    "latitude" : "39.89214",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb3a0de912e90563a8de4"),
+    "name" : "广渠门外",
+    "district" : "东城区-朝阳区",
+    "latin" : "guangqumenwai",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.443634",
+    "latitude" : "39.892171",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62ddef28de912e90563a4351"),
+    "name" : "光熙门",
+    "startdate" : ISODate("2003-01-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.431838",
+    "latitude" : "39.968389",
+    "district" : "朝阳区",
+    "latin" : "guangximen"
+}
+
+{
+    "_id" : ObjectId("62de9194de912e90563a80fb"),
+    "name" : "管庄",
+    "district" : "朝阳区",
+    "latin" : "guanzhuang",
+    "startdate" : ISODate("2003-12-27T00:00:00.000Z"),
+    "longitude" : "116.593234",
+    "latitude" : "39.908021",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7e0dde912e90563a79ed"),
+    "name" : "古城",
+    "district" : "石景山区",
+    "latin" : "gucheng",
+    "startdate" : ISODate("1971-11-07T00:00:00.000Z"),
+    "longitude" : "116.184448",
+    "latitude" : "39.906142",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a51b9"),
+    "name" : "鼓楼大街",
+    "district" : "东城区-西城区",
+    "code" : 217,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.410746",
+    "latitude" : "39.947653",
+    "latin" : "guloudajie",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb9b1de912e90563a8fbf"),
+    "name" : "郭公庄",
+    "district" : "丰台区",
+    "latin" : "guogongzhuang",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "longitude" : "116.313141",
+    "latitude" : "39.812195",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6bfb"),
+    "name" : "国家图书馆",
+    "district" : "海淀区",
+    "latin" : "guojiatushuguan",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "longitude" : "116.318901",
+    "latitude" : "39.942841",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9490de912e90563a8362"),
+    "name" : "国家植物园",
+    "district" : "海淀区",
+    "latin" : "guojiazhiwuyuan",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "longitude" : "116.20976",
+    "latitude" : "39.99226",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a7832"),
+    "name" : "国贸",
+    "district" : "朝阳区",
+    "latin" : "guomao",
+    "startdate" : ISODate("1999-09-28T00:00:00.000Z"),
+    "longitude" : "116.454381",
+    "latitude" : "39.907686",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9275de912e90563a81a2"),
+    "name" : "果园",
+    "district" : "通州区",
+    "latin" : "guoyuan",
+    "startdate" : ISODate("2003-12-27T00:00:00.000Z"),
+    "longitude" : "116.640724",
+    "latitude" : "39.892229",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de4862de912e90563a6539"),
+    "name" : "国展",
+    "district" : "顺义区",
+    "latin" : "guozhan",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "longitude" : "116.5286",
+    "latitude" : "40.044",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5bb7"),
+    "name" : "郭庄子",
+    "startdate" : ISODate("2013-05-05T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.253206",
+    "latitude" : "39.864406",
+    "district" : "丰台区",
+    "latin" : "guozhuangzi"
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a855c"),
+    "name" : "海淀黄庄",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.311467",
+    "latitude" : "39.974714",
+    "district" : "海淀区",
+    "latin" : "haidianhuangzhuang"
+}
+
+{
+    "_id" : ObjectId("62dea45cde912e90563a8976"),
+    "name" : "海淀五路居",
+    "district" : "海淀区",
+    "latin" : "haidianwuluju",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.270856",
+    "latitude" : "39.931392",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04ec"),
+    "name" : "海户屯",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.394022",
+    "latitude" : "39.850278",
+    "district" : "丰台区",
+    "latin" : "haihutun"
+}
+
+{
+    "_id" : ObjectId("62dea6f0de912e90563a8a66"),
+    "name" : "郝家府",
+    "district" : "通州区",
+    "latin" : "haojiafu",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.711023",
+    "latitude" : "39.90202",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb545de912e90563a8e70"),
+    "name" : "黑庄户",
+    "district" : "朝阳区",
+    "latin" : "heizhuanghu",
+    "startdate" : ISODate("2019-12-28T00:00:00.000Z"),
+    "longitude" : "116.595418",
+    "latitude" : "39.857742",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cc4"),
+    "name" : "和平里北街",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.418506",
+    "latitude" : "39.958718",
+    "district" : "东城区",
+    "latin" : "hepinglibeijie"
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a519b"),
+    "name" : "和平门",
+    "district" : "西城区",
+    "code" : 207,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.377992",
+    "latitude" : "39.898672",
+    "latin" : "hepingmen",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cc1"),
+    "name" : "和平西桥",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.417975",
+    "latitude" : "39.968416",
+    "district" : "朝阳区",
+    "latin" : "hepingxiqiao"
+}
+
+{
+    "_id" : ObjectId("62dbd80ade912e90563a05d0"),
+    "name" : "和义",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.395817",
+    "latitude" : "39.813069",
+    "district" : "丰台区",
+    "latin" : "heyi"
+}
+
+{
+    "_id" : ObjectId("62de49fcde912e90563a66a6"),
+    "name" : "后沙峪",
+    "district" : "顺义区",
+    "latin" : "houshayu",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "longitude" : "116.558425",
+    "latitude" : "40.113014",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb47cde912e90563a8e25"),
+    "name" : "化工",
+    "district" : "朝阳区",
+    "latin" : "huagong",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.497387",
+    "latitude" : "39.886107",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de49a6de912e90563a665f"),
+    "name" : "花梨坎",
+    "district" : "顺义区",
+    "latin" : "hualikan",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "longitude" : "116.551794",
+    "latitude" : "40.083333",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb545de912e90563a8e6a"),
+    "name" : "黄厂",
+    "district" : "朝阳区",
+    "latin" : "huangchang",
+    "startdate" : ISODate("2019-12-28T00:00:00.000Z"),
+    "longitude" : "116.547714",
+    "latitude" : "39.847828",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9728de912e90563a8595"),
+    "name" : "黄村火车站",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.326397",
+    "latitude" : "39.721822",
+    "district" : "大兴区",
+    "latin" : "huangcunhuoche"
+}
+
+{
+    "_id" : ObjectId("62de9728de912e90563a8592"),
+    "name" : "黄村西大街",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.326542",
+    "latitude" : "39.727528",
+    "district" : "大兴区",
+    "latin" : "huangcunxidajie"
+}
+
+{
+    "_id" : ObjectId("62dea5e3de912e90563a89fc"),
+    "name" : "黄渠",
+    "district" : "朝阳区",
+    "latin" : "huangqu",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.572637",
+    "latitude" : "39.92307",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb47cde912e90563a8e2b"),
+    "name" : "欢乐谷景区",
+    "district" : "朝阳区",
+    "latin" : "huanlegujingqu",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.493088",
+    "latitude" : "39.865626",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9275de912e90563a81b4"),
+    "name" : "环球度假区",
+    "district" : "通州区",
+    "latin" : "huanqiudujiaqu",
+    "startdate" : ISODate("2021-08-26T00:00:00.000Z"),
+    "longitude" : "116.673142",
+    "latitude" : "39.847936",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea45cde912e90563a8979"),
+    "name" : "花园桥",
+    "district" : "海淀区",
+    "latin" : "huayuanqiao",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.310713",
+    "latitude" : "39.9324",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9275de912e90563a81b1"),
+    "name" : "花庄",
+    "district" : "通州区",
+    "latin" : "huazhuang",
+    "startdate" : ISODate("2019-12-28T00:00:00.000Z"),
+    "longitude" : "116.688989",
+    "latitude" : "39.855242",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb3a0de912e90563a8dd8"),
+    "name" : "虎坊桥",
+    "district" : "西城区",
+    "latin" : "hufangqiao",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.384687",
+    "latitude" : "39.889487",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62ddef28de912e90563a4345"),
+    "name" : "回龙观",
+    "startdate" : ISODate("2002-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.329922",
+    "latitude" : "40.069436",
+    "district" : "昌平区",
+    "latin" : "huilongguan"
+}
+
+{
+    "_id" : ObjectId("62dbd0dcde912e90563a0226"),
+    "name" : "回龙观东大街",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.363025",
+    "latitude" : "40.081154",
+    "district" : "昌平区",
+    "latin" : "huilongguandongdajie"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cbb"),
+    "name" : "惠新西街北口",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.417047",
+    "latitude" : "39.987863",
+    "district" : "朝阳区",
+    "latin" : "huixinxijiebeikou"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cbe"),
+    "name" : "惠新西街南口",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.417541",
+    "latitude" : "39.976676",
+    "district" : "朝阳区",
+    "latin" : "huixinxijienankou"
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a782c"),
+    "name" : "呼家楼",
+    "district" : "朝阳区",
+    "latin" : "hujialou",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.461788",
+    "latitude" : "39.923333",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd80ade912e90563a05d6"),
+    "name" : "火箭万源",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.411861",
+    "latitude" : "39.798706",
+    "district" : "丰台区",
+    "latin" : "huojianwanyuan"
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a7938"),
+    "name" : "火器营",
+    "district" : "海淀区",
+    "latin" : "huoqiying",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.291077",
+    "latitude" : "39.965286",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd0dcde912e90563a0229"),
+    "name" : "霍营",
+    "startdate" : ISODate("2002-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.35432222",
+    "latitude" : "40.06988266",
+    "district" : "昌平区",
+    "latin" : "huoying"
+}
+
+{
+    "_id" : ObjectId("62debd61de912e90563a90cf"),
+    "name" : "嘉会湖",
+    "district" : "通州区",
+    "latin" : "jiahuihu",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "longitude" : "116.60487",
+    "latitude" : "39.79168",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de58b1de912e90563a6df7"),
+    "name" : "健德门",
+    "district" : "海淀区-朝阳区",
+    "latin" : "jiandemen",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.381353",
+    "latitude" : "39.976723",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6ede912e90563a5bf6"),
+    "name" : "将台",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.483792",
+    "latitude" : "39.969767",
+    "district" : "朝阳区",
+    "latin" : "jiangtai"
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a51a7"),
+    "name" : "建国门",
+    "district" : "东城区-朝阳区",
+    "code" : 211,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.435783",
+    "latitude" : "39.908483",
+    "latin" : "jianguomen",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb47cde912e90563a8e34"),
+    "name" : "焦化厂",
+    "district" : "朝阳区",
+    "latin" : "jiaohuachang",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.531296",
+    "latitude" : "39.854386",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a790b"),
+    "name" : "角门东",
+    "district" : "丰台区",
+    "latin" : "jiaomendong",
+    "startdate" : ISODate("2013-05-05T00:00:00.000Z"),
+    "longitude" : "116.379342",
+    "latitude" : "39.843709",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a790e"),
+    "name" : "角门西",
+    "district" : "丰台区",
+    "latin" : "jiaomenxi",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.365149",
+    "latitude" : "39.844305",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a7914"),
+    "name" : "纪家庙",
+    "district" : "丰台区",
+    "latin" : "jijiamiao",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.324699",
+    "latitude" : "39.847771",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea3aade912e90563a8936"),
+    "name" : "金安桥",
+    "district" : "石景山区",
+    "latin" : "jinanqiao",
+    "startdate" : ISODate("2018-12-31T00:00:00.000Z"),
+    "longitude" : "116.156862",
+    "latitude" : "39.922191",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5bcf"),
+    "name" : "景风门",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.35996",
+    "latitude" : "39.8614",
+    "district" : "丰台区",
+    "latin" : "jingfengmen"
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a7838"),
+    "name" : "劲松",
+    "district" : "朝阳区",
+    "latin" : "jingsong",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.455341",
+    "latitude" : "39.883069",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6dde912e90563a5bd5"),
+    "name" : "景泰",
+    "startdate" : ISODate("2015-12-26T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.404519",
+    "latitude" : "39.863837",
+    "district" : "东城区",
+    "latin" : "jingtai"
+}
+
+{
+    "_id" : ObjectId("62de3b6dde912e90563a5bea"),
+    "name" : "金台路",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.478091",
+    "latitude" : "39.92291",
+    "district" : "朝阳区",
+    "latin" : "jintailu"
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a782f"),
+    "name" : "金台夕照",
+    "district" : "朝阳区",
+    "latin" : "jintaixizhao",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.455603",
+    "latitude" : "39.914867",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04d7"),
+    "name" : "金鱼胡同",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.404865",
+    "latitude" : "39.914162",
+    "district" : "东城区",
+    "latin" : "jinyuhutong"
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a51bc"),
+    "name" : "积水潭",
+    "district" : "西城区",
+    "code" : 218,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.368591",
+    "latitude" : "39.947559",
+    "latin" : "jishuitan",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9275de912e90563a81a5"),
+    "name" : "九棵树",
+    "district" : "通州区",
+    "latin" : "jiukeshu",
+    "startdate" : ISODate("2003-12-27T00:00:00.000Z"),
+    "longitude" : "116.651642",
+    "latitude" : "39.889112",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6dde912e90563a5be4"),
+    "name" : "九龙山",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.471685",
+    "latitude" : "39.892109",
+    "district" : "朝阳区",
+    "latin" : "jiulongshan"
+}
+
+{
+    "_id" : ObjectId("62de8025de912e90563a7a91"),
+    "name" : "军事博物馆",
+    "district" : "海淀区",
+    "latin" : "junshibowuguan",
+    "startdate" : ISODate("1971-01-15T00:00:00.000Z"),
+    "longitude" : "116.316686",
+    "latitude" : "39.906286",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb9b1de912e90563a8fb9"),
+    "name" : "科怡路",
+    "district" : "丰台区",
+    "latin" : "keyilu",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "longitude" : "116.297649",
+    "latitude" : "39.832374",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6ede912e90563a5c05"),
+    "name" : "来广营",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.4607",
+    "latitude" : "40.0189",
+    "district" : "朝阳区",
+    "latin" : "laiguangying"
+}
+
+{
+    "_id" : ObjectId("62deb545de912e90563a8e6d"),
+    "name" : "郎辛庄",
+    "district" : "朝阳区",
+    "latin" : "langxinzhuang",
+    "startdate" : ISODate("2019-12-28T00:00:00.000Z"),
+    "longitude" : "116.564144",
+    "latitude" : "39.855461",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a7823"),
+    "name" : "亮马桥",
+    "district" : "朝阳区",
+    "latin" : "liangmaqiao",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.461874",
+    "latitude" : "39.94941",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a7926"),
+    "name" : "莲花桥",
+    "district" : "海淀区",
+    "latin" : "lianhuaqiao",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.310532",
+    "latitude" : "39.897221",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea3aade912e90563a893f"),
+    "name" : "廖公庄",
+    "district" : "海淀区",
+    "latin" : "liaogongzhuang",
+    "startdate" : ISODate("2018-12-31T00:00:00.000Z"),
+    "longitude" : "116.220863",
+    "latitude" : "39.931154",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd0dcde912e90563a0235"),
+    "name" : "林萃桥",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.372998",
+    "latitude" : "40.021906",
+    "district" : "朝阳区",
+    "latin" : "lincuiqiao"
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8571"),
+    "name" : "灵境胡同",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.367523",
+    "latitude" : "39.914654",
+    "district" : "西城区",
+    "latin" : "lingjinghutong"
+}
+
+{
+    "_id" : ObjectId("62de9275de912e90563a81ab"),
+    "name" : "临河里",
+    "district" : "通州区",
+    "latin" : "linheli",
+    "startdate" : ISODate("2003-12-27T00:00:00.000Z"),
+    "longitude" : "116.67285",
+    "latitude" : "39.8743",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0caf"),
+    "name" : "立水桥",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.405783",
+    "latitude" : "40.051125",
+    "district" : "朝阳区",
+    "latin" : "lishuiqiao"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cb2"),
+    "name" : "立水桥南",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.408228",
+    "latitude" : "40.040658",
+    "district" : "朝阳区",
+    "latin" : "lishuiqiaonan"
+}
+
+{
+    "_id" : ObjectId("62de3f5bde912e90563a5f66"),
+    "name" : "六道口",
+    "district" : "海淀区",
+    "latin" : "liudaokou",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.350864",
+    "latitude" : "40.001064",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62ddef28de912e90563a4354"),
+    "name" : "柳芳",
+    "startdate" : ISODate("2003-01-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.432774",
+    "latitude" : "39.958194",
+    "district" : "朝阳区",
+    "latin" : "liufang"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0ce5"),
+    "name" : "刘家窑",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.422117",
+    "latitude" : "39.857495",
+    "district" : "丰台区",
+    "latin" : "liujiayao"
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a7923"),
+    "name" : "六里桥",
+    "district" : "丰台区",
+    "latin" : "liuliqiao",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.296814",
+    "latitude" : "39.878756",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb9b1de912e90563a8fb0"),
+    "name" : "六里桥东",
+    "district" : "丰台区",
+    "latin" : "liuliqiaodong",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "longitude" : "116.31575",
+    "latitude" : "39.887127",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9275de912e90563a81a8"),
+    "name" : "梨园",
+    "district" : "通州区",
+    "latin" : "liyuan",
+    "startdate" : ISODate("2003-12-27T00:00:00.000Z"),
+    "longitude" : "116.662727",
+    "latitude" : "39.88251",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5bc6"),
+    "name" : "丽泽商务区",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.32558",
+    "latitude" : "39.86675",
+    "district" : "丰台区",
+    "latin" : "lizeshangwuqu"
+}
+
+{
+    "_id" : ObjectId("62ddef28de912e90563a4342"),
+    "name" : "龙泽",
+    "startdate" : ISODate("2002-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.319303",
+    "latitude" : "40.070887",
+    "district" : "昌平区",
+    "latin" : "longze"
+}
+
+{
+    "_id" : ObjectId("62df975ede912e90563aed49"),
+    "name" : "关庄",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.428053",
+    "latitude" : "40.001597",
+    "district" : "朝阳区",
+    "latin" : "longze"
+}
+
+{
+    "_id" : ObjectId("62dea6f0de912e90563a8a6c"),
+    "name" : "潞城",
+    "district" : "通州区",
+    "latin" : "lucheng",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.741787",
+    "latitude" : "39.901547",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a857a"),
+    "name" : "马家堡",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.36526",
+    "latitude" : "39.85184",
+    "district" : "丰台区",
+    "latin" : "majiabao"
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6be9"),
+    "name" : "马连洼",
+    "district" : "海淀区",
+    "latin" : "malianwa",
+    "startdate" : ISODate("2016-12-31T00:00:00.000Z"),
+    "longitude" : "116.266976",
+    "latitude" : "40.030591",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de4555de912e90563a6290"),
+    "name" : "马泉营",
+    "district" : "朝阳区",
+    "latin" : "maquanying",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "longitude" : "116.498697",
+    "latitude" : "40.032369",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62debb27de912e90563a9021"),
+    "name" : "模式口",
+    "district" : "石景山区",
+    "latin" : "moshikou",
+    "startdate" : null,
+    "longitude" : "116.14969",
+    "latitude" : "39.932339",
+    "isRunning" : false
+}
+
+{
+    "_id" : ObjectId("62de58b1de912e90563a6df4"),
+    "name" : "牡丹园",
+    "district" : "海淀区",
+    "latin" : "mudanyuan",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.363777",
+    "latitude" : "39.974846",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de8025de912e90563a7a94"),
+    "name" : "木樨地",
+    "district" : "西城区",
+    "latin" : "muxidi",
+    "startdate" : ISODate("1971-01-15T00:00:00.000Z"),
+    "longitude" : "116.332003",
+    "latitude" : "39.906094",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04e9"),
+    "name" : "木樨园",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.393598",
+    "latitude" : "39.858673",
+    "district" : "东城区-丰台区",
+    "latin" : "muxiyuan"
+}
+
+{
+    "_id" : ObjectId("62de4a3dde912e90563a66e1"),
+    "name" : "南法信",
+    "district" : "顺义区",
+    "latin" : "nanfaxin",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "longitude" : "116.603725",
+    "latitude" : "40.127292",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de8025de912e90563a7a97"),
+    "name" : "南礼士路",
+    "district" : "西城区",
+    "latin" : "nanlishilu",
+    "startdate" : ISODate("1971-01-15T00:00:00.000Z"),
+    "longitude" : "116.345197",
+    "latitude" : "39.905936",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb47cde912e90563a8e28"),
+    "name" : "南楼梓庄",
+    "district" : "朝阳区",
+    "latin" : "nanlouzizhuang",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.495156",
+    "latitude" : "39.873067",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04d1"),
+    "name" : "南锣鼓巷",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.39689966",
+    "latitude" : "39.932041",
+    "district" : "东城区",
+    "latin" : "nanluoguxiang"
+}
+
+{
+    "_id" : ObjectId("62db4713349e7d6dbd023ffe"),
+    "name" : "南邵",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.28154655",
+    "latitude" : "40.20521666",
+    "district" : "昌平区",
+    "latin" : "nanshao"
+}
+
+{
+    "_id" : ObjectId("62dec295de912e90563a9221"),
+    "name" : "牛街",
+    "district" : "西城区",
+    "latin" : "niujie",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "longitude" : "116.357361",
+    "latitude" : "39.889306",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a791d"),
+    "name" : "泥洼",
+    "district" : "丰台区",
+    "latin" : "niwa",
+    "startdate" : ISODate("2013-05-05T00:00:00.000Z"),
+    "longitude" : "116.29816",
+    "latitude" : "39.85753",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6bec"),
+    "name" : "农大南路",
+    "district" : "海淀区",
+    "latin" : "nongdananlu",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "longitude" : "116.276965",
+    "latitude" : "40.019221",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a7826"),
+    "name" : "农业展览馆",
+    "district" : "朝阳区",
+    "latin" : "nongyezhanlanguan",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.462114",
+    "latitude" : "39.941341",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a783b"),
+    "name" : "潘家园",
+    "district" : "朝阳区",
+    "latin" : "panjiayuan",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.454364",
+    "latitude" : "39.87383",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a856b"),
+    "name" : "平安里",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.366728",
+    "latitude" : "39.932562",
+    "district" : "西城区",
+    "latin" : "pinganli"
+}
+
+{
+    "_id" : ObjectId("62de7e0dde912e90563a79ea"),
+    "name" : "苹果园",
+    "district" : "石景山区",
+    "latin" : "pingguoyuan",
+    "startdate" : ISODate("1973-04-23T00:00:00.000Z"),
+    "longitude" : "116.171783",
+    "latitude" : "39.924909",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6dde912e90563a5be1"),
+    "name" : "平乐园",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.478559",
+    "latitude" : "39.886338",
+    "district" : "朝阳区",
+    "latin" : "pingleyuan"
+}
+
+{
+    "_id" : ObjectId("62dbd0dcde912e90563a0223"),
+    "name" : "平西府",
+    "startdate" : ISODate("2013-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.412338",
+    "latitude" : "40.103367",
+    "district" : "昌平区",
+    "latin" : "pingxifu"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0ce2"),
+    "name" : "蒲黄榆",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.415406",
+    "latitude" : "39.864158",
+    "district" : "丰台区",
+    "latin" : "puhuangyu"
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04dd"),
+    "name" : "前门",
+    "startdate" : ISODate("1971-01-15T00:00:00.000Z"),
+    "isRunning" : true,
+    "district" : "东城区",
+    "code" : 208,
+    "longitude" : "116.391659",
+    "latitude" : "39.898653",
+    "latin" : "qianmen"
+}
+
+{
+    "_id" : ObjectId("62deb3a0de912e90563a8dde"),
+    "name" : "桥湾",
+    "district" : "东城区",
+    "latin" : "qiaowan",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.40228",
+    "latitude" : "39.89127",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5bbd"),
+    "name" : "七里庄",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.288166",
+    "latitude" : "39.86524",
+    "district" : "丰台区",
+    "latin" : "qilizhuang"
+}
+
+{
+    "_id" : ObjectId("62dbcba1de912e90563a015b"),
+    "name" : "清河站",
+    "startdate" : ISODate("2019-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.309166",
+    "latitude" : "40.039999",
+    "district" : "海淀区",
+    "latin" : "qinghe"
+}
+
+{
+    "_id" : ObjectId("62de3f5bde912e90563a5f63"),
+    "name" : "清华东路西口",
+    "district" : "海淀区",
+    "latin" : "qinghuadongluxikou",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.33294",
+    "latitude" : "39.99891",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea5e3de912e90563a89f6"),
+    "name" : "青年路",
+    "district" : "朝阳区",
+    "latin" : "qingnianlu",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.5111",
+    "latitude" : "39.9218",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9728de912e90563a858f"),
+    "name" : "清源路",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.326428",
+    "latitude" : "39.741331",
+    "district" : "大兴区",
+    "latin" : "qingyuanlu"
+}
+
+{
+    "_id" : ObjectId("62deb545de912e90563a8e79"),
+    "name" : "群芳",
+    "district" : "通州区",
+    "latin" : "qunfang",
+    "startdate" : ISODate("2019-12-28T00:00:00.000Z"),
+    "longitude" : "116.664728",
+    "latitude" : "39.86226",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a855f"),
+    "name" : "人民大学",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.315153",
+    "latitude" : "39.965614",
+    "district" : "海淀区",
+    "latin" : "renmindaxue"
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a7820"),
+    "name" : "三元桥",
+    "district" : "朝阳区",
+    "latin" : "sanyuanqiao",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.451389",
+    "latitude" : "39.96",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd0dcde912e90563a0238"),
+    "name" : "森林公园南门",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.38641633",
+    "latitude" : "40.00855833",
+    "district" : "朝阳区",
+    "latin" : "senlingongyuannanmen"
+}
+
+{
+    "_id" : ObjectId("62db471d349e7d6dbd024008"),
+    "name" : "沙河",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.28281044",
+    "latitude" : "40.14705244",
+    "district" : "昌平区",
+    "latin" : "shahe"
+}
+
+{
+    "_id" : ObjectId("62db4718349e7d6dbd024004"),
+    "name" : "沙河高教园",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.46767433",
+    "latitude" : "40.27961877",
+    "district" : "昌平区",
+    "latin" : "shahegaojiaoyuan"
+}
+
+{
+    "_id" : ObjectId("62ddef28de912e90563a433f"),
+    "name" : "上地",
+    "startdate" : ISODate("2002-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.320205",
+    "latitude" : "40.032981",
+    "district" : "海淀区",
+    "latin" : "shangdi"
+}
+
+{
+    "_id" : ObjectId("62de3b6ede912e90563a5c08"),
+    "name" : "善各庄",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : 116.475537,
+    "latitude" : 40.02626,
+    "district" : "朝阳区",
+    "latin" : "shangezhuang"
+}
+
+{
+    "_id" : ObjectId("62ddef28de912e90563a434e"),
+    "name" : "芍药居",
+    "startdate" : ISODate("2003-01-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.438592",
+    "latitude" : "39.977185",
+    "district" : "朝阳区",
+    "latin" : "shaoyaoju"
+}
+
+{
+    "_id" : ObjectId("62db4736349e7d6dbd024018"),
+    "name" : "生命科学园",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.494883",
+    "latitude" : "40.16343333",
+    "district" : "昌平区",
+    "latin" : "shengmingkexueyuan"
+}
+
+{
+    "_id" : ObjectId("62de9728de912e90563a859b"),
+    "name" : "生物医药基地",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.315606",
+    "latitude" : "39.684819",
+    "district" : "大兴区",
+    "latin" : "shengwuyiyaojidi"
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04ce"),
+    "name" : "什刹海",
+    "startdate" : ISODate("2013-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.396247",
+    "latitude" : "39.937563",
+    "district" : "东城区-西城区",
+    "latin" : "shenshahai"
+}
+
+{
+    "_id" : ObjectId("62debd61de912e90563a90c3"),
+    "name" : "十八里店",
+    "district" : "朝阳区",
+    "latin" : "shibalidian",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "longitude" : "116.48947",
+    "latitude" : "39.84328",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea5e3de912e90563a89f3"),
+    "name" : "十里堡",
+    "district" : "朝阳区",
+    "latin" : "shilibao",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.496192",
+    "latitude" : "39.921597",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6dde912e90563a5bdb"),
+    "name" : "十里河",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.452763",
+    "latitude" : "39.864203",
+    "district" : "朝阳区",
+    "latin" : "shilihe"
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a7905"),
+    "name" : "石榴庄",
+    "district" : "丰台区",
+    "latin" : "shiliuzhuang",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.407298",
+    "latitude" : "39.844429",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de4a8cde912e90563a6726"),
+    "name" : "石门",
+    "district" : "顺义区",
+    "latin" : "shimen",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "longitude" : "116.6353",
+    "latitude" : "40.12858",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62db46fa349e7d6dbd023fe2"),
+    "name" : "十三陵景区",
+    "startdate" : ISODate("2015-12-16T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.2085",
+    "latitude" : "40.2401385",
+    "district" : "昌平区",
+    "latin" : "shisanlingjingqu"
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a7917"),
+    "name" : "首经贸",
+    "district" : "丰台区",
+    "latin" : "shoujingmao",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.320202",
+    "latitude" : "39.844463",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb47cde912e90563a8e31"),
+    "name" : "双合",
+    "district" : "朝阳区",
+    "latin" : "shuanghe",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.52089",
+    "latitude" : "39.85847",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a7835"),
+    "name" : "双井",
+    "district" : "朝阳区",
+    "latin" : "shuangjing",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.462979",
+    "latitude" : "39.893711",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9194de912e90563a80f8"),
+    "name" : "双桥",
+    "district" : "朝阳区",
+    "latin" : "shuangqiao",
+    "startdate" : ISODate("2003-12-27T00:00:00.000Z"),
+    "longitude" : "116.570925",
+    "latitude" : "39.909106",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de4c5ede912e90563a68cb"),
+    "name" : "顺义",
+    "district" : "顺义区",
+    "latin" : "shunyi",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "longitude" : "116.650892",
+    "latitude" : "40.128842",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de8e9fde912e90563a7ec2"),
+    "name" : "四惠",
+    "district" : "朝阳区",
+    "latin" : "sihui",
+    "startdate" : ISODate("1999-09-28T00:00:00.000Z"),
+    "longitude" : "116.489333",
+    "latitude" : "39.90759",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de8e9fde912e90563a7ec5"),
+    "name" : "四惠东",
+    "district" : "朝阳区",
+    "latin" : "sihuidong",
+    "startdate" : ISODate("1999-09-28T00:00:00.000Z"),
+    "longitude" : "116.50945",
+    "latitude" : "39.907299",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0ce8"),
+    "name" : "宋家庄",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.422222",
+    "latitude" : "39.844444",
+    "district" : "丰台区",
+    "latin" : "songjiazhuang"
+}
+
+{
+    "_id" : ObjectId("62de47f4de912e90563a64db"),
+    "name" : "孙河",
+    "district" : "朝阳区",
+    "latin" : "sunhe",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "longitude" : "116.528651",
+    "latitude" : "40.043943",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de58b1de912e90563a6de5"),
+    "name" : "苏州街",
+    "district" : "海淀区",
+    "latin" : "suzhoujie",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.299219",
+    "latitude" : "39.97453",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6bf5"),
+    "name" : "苏州桥",
+    "district" : "海淀区",
+    "latin" : "suzhouqiao",
+    "startdate" : ISODate("2014-05-18T00:00:00.000Z"),
+    "longitude" : "116.301686",
+    "latitude" : "39.960351",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dec295de912e90563a921e"),
+    "name" : "太平桥",
+    "district" : "西城区",
+    "latin" : "taipingqiao",
+    "startdate" : null,
+    "longitude" : "116.357014",
+    "latitude" : "39.908889",
+    "isRunning" : false
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a781d"),
+    "name" : "太阳宫",
+    "district" : "朝阳区",
+    "latin" : "taiyanggong",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.441224",
+    "latitude" : "39.971349",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8577"),
+    "name" : "陶然亭",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.368348",
+    "latitude" : "39.877296",
+    "district" : "西城区",
+    "latin" : "taoranting"
+}
+
+{
+    "_id" : ObjectId("62de831dde912e90563a7b7a"),
+    "name" : "天安门东",
+    "district" : "东城区",
+    "latin" : "tiananmendong",
+    "startdate" : ISODate("1999-09-28T00:00:00.000Z"),
+    "longitude" : "116.396056",
+    "latitude" : "39.906397",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de831dde912e90563a7b77"),
+    "name" : "天安门西",
+    "district" : "西城区",
+    "latin" : "tiananmenxi",
+    "startdate" : ISODate("1999-09-28T00:00:00.000Z"),
+    "longitude" : "116.385417",
+    "latitude" : "39.906075",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea3aade912e90563a8942"),
+    "name" : "田村",
+    "district" : "海淀区",
+    "latin" : "tiancun",
+    "startdate" : ISODate("2018-12-31T00:00:00.000Z"),
+    "longitude" : "116.246833",
+    "latitude" : "39.928138",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9728de912e90563a859e"),
+    "name" : "天宫院",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.313831",
+    "latitude" : "39.668992",
+    "district" : "大兴区",
+    "latin" : "tiangongyuan"
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04e3"),
+    "name" : "天桥",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.392480",
+    "latitude" : "39.880809",
+    "district" : "东城区-西城区",
+    "latin" : "tianqiao"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cdf"),
+    "name" : "天坛东门",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.414479",
+    "latitude" : "39.882256",
+    "district" : "东城区",
+    "latin" : "tiantandongmen"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0ca9"),
+    "name" : "天通苑",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.406406",
+    "latitude" : "40.073456",
+    "district" : "昌平区",
+    "latin" : "tiantongyuan"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0ca6"),
+    "name" : "天通苑北",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.406733",
+    "latitude" : "40.082025",
+    "district" : "昌平区",
+    "latin" : "tiantongyuanbei"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0cac"),
+    "name" : "天通苑南",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.406461",
+    "latitude" : "40.065106",
+    "district" : "昌平区",
+    "latin" : "tiantongyuannan"
+}
+
+{
+    "_id" : ObjectId("62dea6f0de912e90563a8a5d"),
+    "name" : "通州北关",
+    "district" : "通州区",
+    "latin" : "tongzhoubeiguan",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.655515",
+    "latitude" : "39.917374",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9194de912e90563a8101"),
+    "name" : "通州北苑",
+    "district" : "通州区",
+    "latin" : "tongzhoubeiyuan",
+    "startdate" : ISODate("2003-12-27T00:00:00.000Z"),
+    "longitude" : "116.631337",
+    "latitude" : "39.902737",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de785ede912e90563a7829"),
+    "name" : "团结湖",
+    "district" : "朝阳区",
+    "latin" : "tuanjiehu",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.468353",
+    "latitude" : "39.933811",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6bdd"),
+    "name" : "屯佃",
+    "district" : "海淀区",
+    "latin" : "tundian",
+    "startdate" : ISODate("2016-12-31T00:00:00.000Z"),
+    "longitude" : "116.209182",
+    "latitude" : "40.067275",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9275de912e90563a81ae"),
+    "name" : "土桥",
+    "district" : "通州区",
+    "latin" : "tuqiao",
+    "startdate" : ISODate("2003-12-27T00:00:00.000Z"),
+    "longitude" : "116.68023",
+    "latitude" : "39.87077",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9490de912e90563a835f"),
+    "name" : "万安",
+    "district" : "海淀区",
+    "latin" : "wanan",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "longitude" : "116.22599",
+    "latitude" : "39.98272",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04da"),
+    "name" : "王府井",
+    "startdate" : ISODate("1999-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.40518611",
+    "latitude" : "39.90668055",
+    "district" : "东城区",
+    "latin" : "wangfujing"
+}
+
+{
+    "_id" : ObjectId("62de3b6ede912e90563a5bff"),
+    "name" : "望京",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.462936",
+    "latitude" : "39.997467",
+    "district" : "朝阳区",
+    "latin" : "wangjing"
+}
+
+{
+    "_id" : ObjectId("62de44c7de912e90563a621d"),
+    "name" : "望京东",
+    "district" : "朝阳区",
+    "latin" : "wangjingdong",
+    "startdate" : ISODate("2016-12-31T00:00:00.000Z"),
+    "longitude" : "116.480972",
+    "latitude" : "40.001783",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6ede912e90563a5bf9"),
+    "name" : "望京南",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.47541",
+    "latitude" : "39.98334",
+    "district" : "朝阳区",
+    "latin" : "wangjingnan"
+}
+
+{
+    "_id" : ObjectId("62ddef28de912e90563a434b"),
+    "name" : "望京西",
+    "startdate" : ISODate("2003-01-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.442506",
+    "latitude" : "39.994078",
+    "district" : "朝阳区",
+    "latin" : "wangjingxi"
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6bf2"),
+    "name" : "万泉河桥",
+    "district" : "海淀区",
+    "latin" : "wanquanheqiao",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "longitude" : "116.292941",
+    "latitude" : "39.983778",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb545de912e90563a8e76"),
+    "name" : "万盛东",
+    "district" : "通州区",
+    "latin" : "wanshengdong",
+    "startdate" : ISODate("2019-12-28T00:00:00.000Z"),
+    "longitude" : "116.650774",
+    "latitude" : "39.862276",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb545de912e90563a8e73"),
+    "name" : "万盛西",
+    "district" : "通州区",
+    "latin" : "wanshengxi",
+    "startdate" : ISODate("2019-12-28T00:00:00.000Z"),
+    "longitude" : "116.626618",
+    "latitude" : "39.862344",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ee7de912e90563a7a3e"),
+    "name" : "万寿路",
+    "district" : "海淀区",
+    "latin" : "wanshoulu",
+    "startdate" : ISODate("1971-08-05T00:00:00.000Z"),
+    "longitude" : "116.288842",
+    "latitude" : "39.906156",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6bf8"),
+    "name" : "万寿寺",
+    "district" : "海淀区",
+    "latin" : "wanshousi",
+    "startdate" : ISODate("2020-12-31T00:00:00.000Z"),
+    "longitude" : "116.303318",
+    "latitude" : "39.946751",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62deb3a0de912e90563a8dcf"),
+    "name" : "湾子",
+    "district" : "西城区",
+    "latin" : "wanzi",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.321708",
+    "latitude" : "39.888606",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8562"),
+    "name" : "魏公村",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.317147",
+    "latitude" : "39.956425",
+    "district" : "海淀区",
+    "latin" : "weigongcun"
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6bd7"),
+    "name" : "温阳路",
+    "district" : "海淀区",
+    "latin" : "wenyanglu",
+    "startdate" : ISODate("2016-12-31T00:00:00.000Z"),
+    "longitude" : "116.155058",
+    "latitude" : "40.067453",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62ddef28de912e90563a433c"),
+    "name" : "五道口",
+    "startdate" : ISODate("2002-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.337573",
+    "latitude" : "39.992871",
+    "district" : "海淀区",
+    "latin" : "wudaokou"
+}
+
+{
+    "_id" : ObjectId("62dbd80ade912e90563a05d9"),
+    "name" : "五福堂",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.417674",
+    "latitude" : "39.783533",
+    "district" : "大兴区",
+    "latin" : "wufutang"
+}
+
+{
+    "_id" : ObjectId("62de7ee7de912e90563a7a3b"),
+    "name" : "五棵松",
+    "district" : "海淀区",
+    "latin" : "wukesong",
+    "startdate" : ISODate("1971-08-05T00:00:00.000Z"),
+    "longitude" : "116.268656",
+    "latitude" : "39.906256",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea6f0de912e90563a8a5a"),
+    "name" : "物资学院路",
+    "district" : "通州区",
+    "latin" : "wuzixueyuanlu",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "longitude" : "116.633806",
+    "latitude" : "39.925659",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9490de912e90563a8365"),
+    "name" : "香山",
+    "district" : "海淀区",
+    "latin" : "xiangshan",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "longitude" : "116.198333",
+    "latitude" : "39.992665",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6be6"),
+    "name" : "西北旺",
+    "district" : "海淀区",
+    "latin" : "xibeiwang",
+    "startdate" : ISODate("2016-12-31T00:00:00.000Z"),
+    "longitude" : "116.251936",
+    "latitude" : "40.047561",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de831dde912e90563a7b74"),
+    "name" : "西单",
+    "district" : "西城区",
+    "latin" : "xidan",
+    "startdate" : ISODate("1992-12-12T00:00:00.000Z"),
+    "longitude" : "116.367797",
+    "latitude" : "39.905803",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de7ba8de912e90563a792c"),
+    "name" : "西钓鱼台",
+    "district" : "海淀区",
+    "latin" : "xidiaoyutai",
+    "startdate" : ISODate("2012-12-30T00:00:00.000Z"),
+    "longitude" : "116.300095",
+    "latitude" : "39.924026",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62db47c7349e7d6dbd024038"),
+    "name" : "西二旗",
+    "startdate" : ISODate("2002-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.30008055",
+    "latitude" : "40.05159166",
+    "district" : "海淀区",
+    "latin" : "xierqi"
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8583"),
+    "name" : "西红门",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.359353",
+    "latitude" : "39.811133",
+    "district" : "大兴区",
+    "latin" : "xihongmen"
+}
+
+{
+    "_id" : ObjectId("62dea3aade912e90563a893c"),
+    "name" : "西黄村",
+    "district" : "石景山区",
+    "latin" : "xihuangcun",
+    "startdate" : ISODate("2018-12-31T00:00:00.000Z"),
+    "longitude" : "116.200174",
+    "latitude" : "39.932502",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5bc0"),
+    "name" : "西局",
+    "startdate" : ISODate("2013-05-05T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.311737",
+    "latitude" : "39.874641",
+    "district" : "丰台区",
+    "latin" : "xiju"
+}
+
+{
+    "_id" : ObjectId("62dec295de912e90563a9224"),
+    "name" : "新发地",
+    "district" : "丰台区",
+    "latin" : "xinfadi",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "longitude" : "116.340065",
+    "latitude" : "39.82236",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8580"),
+    "name" : "新宫",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.364698",
+    "latitude" : "39.835429",
+    "district" : "丰台区",
+    "latin" : "xingong"
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8568"),
+    "name" : "新街口",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.361337",
+    "latitude" : "39.939408",
+    "district" : "西城区",
+    "latin" : "xinjiekou"
+}
+
+{
+    "_id" : ObjectId("62debb27de912e90563a9027"),
+    "name" : "新首钢",
+    "district" : "石景山区",
+    "latin" : "xinshougang",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "longitude" : "116.158578",
+    "latitude" : "39.908239",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a856e"),
+    "name" : "西四",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.367125",
+    "latitude" : "39.922575",
+    "district" : "西城区",
+    "latin" : "xisi"
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5bcc"),
+    "name" : "西铁营",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.349568",
+    "latitude" : "39.859738",
+    "district" : "丰台区",
+    "latin" : "xitieying"
+}
+
+{
+    "_id" : ObjectId("62de58b1de912e90563a6df1"),
+    "name" : "西土城",
+    "district" : "海淀区",
+    "latin" : "xitucheng",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.35467",
+    "latitude" : "39.976118",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd0dcde912e90563a022f"),
+    "name" : "西小口",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.34517",
+    "latitude" : "40.04605",
+    "district" : "海淀区",
+    "latin" : "xixiaokou"
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6bef"),
+    "name" : "西苑",
+    "district" : "海淀区",
+    "latin" : "xiyuan",
+    "startdate" : ISODate("2016-12-31T00:00:00.000Z"),
+    "longitude" : "116.284789",
+    "latitude" : "39.997128",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a5189"),
+    "name" : "西直门",
+    "district" : "西城区",
+    "code" : 201,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.349286",
+    "latitude" : "39.939078",
+    "latin" : "xizhimen",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a5198"),
+    "name" : "宣武门",
+    "district" : "西城区",
+    "code" : 206,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.368125",
+    "latitude" : "39.898282",
+    "latin" : "xuanwumen",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dea3aade912e90563a8939"),
+    "name" : "杨庄",
+    "district" : "石景山区",
+    "latin" : "yangzhuang",
+    "startdate" : ISODate("2018-12-31T00:00:00.000Z"),
+    "longitude" : "116.182473",
+    "latitude" : "39.926729",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9490de912e90563a8359"),
+    "name" : "颐和园西门",
+    "district" : "海淀区",
+    "latin" : "yiheyuanximen",
+    "startdate" : ISODate("2017-12-30T00:00:00.000Z"),
+    "longitude" : "116.2572",
+    "latitude" : "39.98446",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de9728de912e90563a8598"),
+    "name" : "义和庄",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.313044",
+    "latitude" : "39.710803",
+    "district" : "大兴区",
+    "latin" : "yihezhuang"
+}
+
+{
+    "_id" : ObjectId("62dbd80ade912e90563a05df"),
+    "name" : "瀛海",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.442778",
+    "latitude" : "39.759301",
+    "district" : "大兴区",
+    "latin" : "yinghai"
+}
+
+{
+    "_id" : ObjectId("62de8e9fde912e90563a7ebf"),
+    "name" : "永安里",
+    "district" : "朝阳区",
+    "latin" : "yonganli",
+    "startdate" : ISODate("1999-09-28T00:00:00.000Z"),
+    "longitude" : "116.444106",
+    "latitude" : "39.907081",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04e6"),
+    "name" : "永定门外",
+    "startdate" : ISODate("2015-12-26T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.392871",
+    "latitude" : "39.866115",
+    "district" : "东城区",
+    "latin" : "yongdingmenwai"
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6be0"),
+    "name" : "永丰",
+    "district" : "海淀区",
+    "latin" : "yongfeng",
+    "startdate" : ISODate("2016-12-31T00:00:00.000Z"),
+    "longitude" : "116.232355",
+    "latitude" : "40.070592",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6be3"),
+    "name" : "永丰南",
+    "district" : "海淀区",
+    "latin" : "yongfengnan",
+    "startdate" : ISODate("2016-12-31T00:00:00.000Z"),
+    "longitude" : "116.242189",
+    "latitude" : "40.064819",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a51b3"),
+    "name" : "雍和宫",
+    "district" : "东城区",
+    "code" : 215,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.410746",
+    "latitude" : "39.947653",
+    "latin" : "yonghegong",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd0dcde912e90563a0232"),
+    "name" : "永泰庄",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.35458",
+    "latitude" : "40.037728",
+    "district" : "海淀区",
+    "latin" : "yongtaizhuang"
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5baf"),
+    "name" : "园博园",
+    "startdate" : ISODate("2013-05-05T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.193287",
+    "latitude" : "39.862034",
+    "district" : "丰台区",
+    "latin" : "yuanboyuan"
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8553"),
+    "name" : "圆明园",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.303394",
+    "latitude" : "39.998211",
+    "district" : "海淀区",
+    "latin" : "yuanmingyuan"
+}
+
+{
+    "_id" : ObjectId("62de7ee7de912e90563a7a38"),
+    "name" : "玉泉路",
+    "district" : "石景山区-海淀区",
+    "latin" : "yuquanlu",
+    "startdate" : ISODate("1971-08-05T00:00:00.000Z"),
+    "longitude" : "116.246975",
+    "latitude" : "39.906081",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd0dcde912e90563a022c"),
+    "name" : "育新",
+    "startdate" : ISODate("2011-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.34109",
+    "latitude" : "40.05831",
+    "district" : "昌平区-海淀区",
+    "latin" : "yuxin"
+}
+
+{
+    "_id" : ObjectId("62de5250de912e90563a6c01"),
+    "name" : "玉渊潭东门",
+    "district" : "西城区",
+    "latin" : "yuyuantandongmen",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "longitude" : "116.328836",
+    "latitude" : "39.912949",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd0dcde912e90563a0220"),
+    "name" : "育知路",
+    "startdate" : ISODate("2013-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.326491",
+    "latitude" : "40.087824",
+    "district" : "昌平区",
+    "latin" : "yuzhilu"
+}
+
+{
+    "_id" : ObjectId("62de3b6ede912e90563a5bf0"),
+    "name" : "枣营",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.467972",
+    "latitude" : "39.943369",
+    "district" : "朝阳区",
+    "latin" : "zaoying"
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a858c"),
+    "name" : "枣园",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.326056",
+    "latitude" : "39.751956",
+    "district" : "大兴区",
+    "latin" : "zaoyuan"
+}
+
+{
+    "_id" : ObjectId("62de3b6cde912e90563a5bac"),
+    "name" : "张郭庄",
+    "startdate" : ISODate("2013-05-05T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.187294",
+    "latitude" : "39.855408",
+    "district" : "丰台区",
+    "latin" : "zhangguozhuang"
+}
+
+{
+    "_id" : ObjectId("62dc0183de912e90563a0ccd"),
+    "name" : "张自忠路",
+    "startdate" : ISODate("2007-10-07T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.410747",
+    "latitude" : "39.939511",
+    "district" : "东城区",
+    "latin" : "zhangzizhonglu"
+}
+
+{
+    "_id" : ObjectId("62de3b6ede912e90563a5bed"),
+    "name" : "朝阳公园",
+    "startdate" : ISODate("2016-12-31T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.478283",
+    "latitude" : "39.933711",
+    "district" : "朝阳区",
+    "latin" : "zhaoyanggongyuan"
+}
+
+{
+    "_id" : ObjectId("62de2d2ade912e90563a51aa"),
+    "name" : "朝阳门",
+    "district" : "东城区-朝阳区",
+    "code" : 212,
+    "startdate" : ISODate("1984-09-20T00:00:00.000Z"),
+    "longitude" : "116.428169",
+    "latitude" : "39.922992",
+    "latin" : "zhaoyangmen",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62de58b1de912e90563a6deb"),
+    "name" : "知春里",
+    "district" : "海淀区",
+    "latin" : "zhichunli",
+    "startdate" : ISODate("2008-07-19T00:00:00.000Z"),
+    "longitude" : "116.322695",
+    "latitude" : "39.974889",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62ddef28de912e90563a4339"),
+    "name" : "知春路",
+    "startdate" : ISODate("2002-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.334483",
+    "latitude" : "39.974675",
+    "district" : "海淀区",
+    "latin" : "zhichunlu"
+}
+
+{
+    "_id" : ObjectId("62de9727de912e90563a8559"),
+    "name" : "中关村",
+    "startdate" : ISODate("2009-09-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.310372",
+    "latitude" : "39.983122",
+    "district" : "海淀区",
+    "latin" : "zhongguancun"
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04d4"),
+    "name" : "中国美术馆",
+    "startdate" : ISODate("2018-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.40464",
+    "latitude" : "39.92291",
+    "district" : "东城区",
+    "latin" : "zhongguomeishuguan"
+}
+
+{
+    "_id" : ObjectId("62debd61de912e90563a90c0"),
+    "name" : "周家庄",
+    "district" : "朝阳区",
+    "latin" : "zhoujiazhuang",
+    "startdate" : ISODate("2021-12-31T00:00:00.000Z"),
+    "longitude" : "116.47066",
+    "latitude" : "39.8551",
+    "isRunning" : true
+}
+
+{
+    "_id" : ObjectId("62dbd6a0de912e90563a04e0"),
+    "name" : "珠市口",
+    "startdate" : ISODate("2014-12-28T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.398169",
+    "latitude" : "39.891226",
+    "district" : "东城区-西城区",
+    "latin" : "zhushikou"
+}
+
+{
+    "_id" : ObjectId("62db4731349e7d6dbd024014"),
+    "name" : "朱辛庄",
+    "startdate" : ISODate("2010-12-30T00:00:00.000Z"),
+    "isRunning" : true,
+    "longitude" : "116.30760555",
+    "latitude" : "40.10298888",
+    "district" : "昌平区",
+    "latin" : "zhuxinzhuang"
+}
