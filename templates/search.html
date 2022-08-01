@@ -39,7 +39,7 @@
       <td>{{station.name}}</td>
       <td>{{station.district}}</td>
       <td>{{station.longitude}}E {{station.latitude}}N</td>
-      <td>{{station.startdate.strftime('%Y-%m-%d') }}</td>
+      <td>{%if station.startdate %}{{station.startdate.strftime('%Y-%m-%d') }}{%endif%}</td>
     </tr>
     {%endfor%}
     {%endif%}
