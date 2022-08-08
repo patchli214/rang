@@ -1,8 +1,8 @@
 from xpinyin import Pinyin
 
 def removeComment():
-    file = open("/Users/patch/Documents/project/rang/station-comm.json",'r')
-    file2 = open("/Users/patch/Documents/project/rang/station-nolatin.json",'a')
+    file = open("/Users/patch/Documents/project/rang/stations.txt",'r')
+    file2 = open("/Users/patch/Documents/project/rang/stations-pure.",'a')
     lines = file.readlines()
     for line in lines:
         if line.find('/*') == -1:
@@ -41,5 +41,5 @@ def pinyin():
     return
 
 if __name__ == "__main__":
-    #removeComment()
-    pinyin()
+    removeComment()
+    #pinyin()
