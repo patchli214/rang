@@ -34,15 +34,15 @@
       {%if searchType == 'line'%}<td>距离</td>{%endif%}
       <td class="nowrap" class="twe">类型</td>
       <td >位置</td>
-      <td class="nowrap">最早开通时间</td>
-      <td class="nowrap">是否运营</td>
+      <td class="nowrap">最早开通</td>
+      <td class="nowrap">运营</td>
   </tr>
     {%for station in stations%}
     <tr class="show">
       <td>{%if searchType == 'line'%}<a href="/station?lineName=&stationName={{station.stationName}}">{{station.stationName}}</a>{%else%}<a href="/station?lineName={{station.lineName}}&stationName=">{{station.lineName}}</a>{%endif%}</td>
 {%if searchType == 'line'%}<td >{{station.distance}}米</td>{%endif%}
       <td  class="quarter">{{station.typeName}}</td>
-      <td >{% if station.underground %}地下{%else%}地上{%endif%}</td>
+      <td >{% if station.underground %}地下{%else%}<font color="red">地上</font>{%endif%}</td>
       <td class="nowrap">{%if station.startdate %}{{station.startdate.strftime('%Y-%m-%d') }}{%endif%}</td>
       <td >{% if station.isRunning %}是{%else%}<font style="color:red">否</font>{%endif%}</td>
     </tr>
