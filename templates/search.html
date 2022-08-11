@@ -41,7 +41,7 @@
   </tr>
     {%for station in stations%}
     <tr class="show">
-      <td>{{station.name}}</td>
+      <td><a href="/station?lineName=&stationName={{station.name}}">{{station.name}}</a></td>
       <td  class="quarter">{{station.district}}</td>
       <td style="font-size:10px;">{{station.longitude}}E {{station.latitude}}N</td>
       <td class="nowrap">{%if station.startdate %}{{station.startdate.strftime('%Y-%m-%d') }}{%endif%}</td>

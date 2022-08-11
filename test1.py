@@ -1,11 +1,24 @@
 from xpinyin import Pinyin
 
-def removeComment():
-    file = open("/Users/patch/Documents/project/rang/stations.txt",'r')
-    file2 = open("/Users/patch/Documents/project/rang/stations-pure.",'a')
+def allToInt():
+    file = open("/Users/patch/Documents/project/rang/linestation-pure.json",'r')
+    file2 = open("/Users/patch/Documents/project/rang/linestation.json",'a')
     lines = file.readlines()
     for line in lines:
+        if line.find('.0,') > -1:
+            line = line.replace('.0,',',')
+        file2.writelines([line])
+    print('DONE')
+    return
+
+def removeComment():
+    file = open("/Users/patch/Documents/project/rang/linestation-comm.json",'r')
+    file2 = open("/Users/patch/Documents/project/rang/linestation-pure.json",'a')
+    lines = file.readlines()
+    for line in lines:
+        print(line)
         if line.find('/*') == -1:
+            print('[NO *]')
             file2.writelines([line])
     print('DONE')
     return
@@ -41,5 +54,6 @@ def pinyin():
     return
 
 if __name__ == "__main__":
-    removeComment()
+    #removeComment()
     #pinyin()
+    allToInt()

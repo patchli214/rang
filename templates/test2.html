@@ -20,16 +20,16 @@
   </div>
   <table>
     <tr>
+      <td>线路名</td>
       <td>站名</td>
-      <td>行政区</td>
-      <td>坐标</td>
+      <td>顺序</td>
       <td>最早开通时间</td>
     </tr>
     {%for station in stations%}
     <tr>
-      <td>{{station.name}}</td>
-      <td>{{station.district}}</td>
-      <td>{{station.longitude}}E {{station.latitude}}N</td>
+      <td>{{station.lineName}}</td>
+      <td>{{station.stationName}}</td>
+      <td>{{station.order}}</td>
       <td>{{station.startdate}}</td>
     </tr>
     {%endfor%}

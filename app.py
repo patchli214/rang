@@ -25,6 +25,10 @@ mongoengine.connect(host="mongodb://"+ip+":27017/subway")
 
 app = Flask(__name__)
 
+class line(mongoengine.Document):
+    name = mongoengine.StringField()
+    startdate = mongoengine.DateTimeField()
+    company = mongoengine.StringField()
 
 class station(mongoengine.Document):
     name = mongoengine.StringField()
@@ -35,6 +39,22 @@ class station(mongoengine.Document):
     latin = mongoengine.StringField()
     isRunning = mongoengine.BooleanField()
     code = mongoengine.StringField()
+
+
+class linestation(mongoengine.Document):
+    stationName = mongoengine.StringField()
+    startdate = mongoengine.DateTimeField()
+    lineName = mongoengine.StringField()
+    isRunning = mongoengine.BooleanField()
+    order = mongoengine.IntField()
+    distance = mongoengine.IntField()
+    type = mongoengine.IntField()
+    typeName = mongoengine.StringField()
+    underground = mongoengine.BooleanField()
+
+class stationtype(mongoengine.Document):
+    name = mongoengine.StringField()
+    typeId = mongoengine.IntField()
 
 @app.route("/")
 def hello_world():
@@ -68,13 +88,16 @@ def hello_world():
     return b
 @app.route("/test2")
 def test2():
-    stations=station.objects().order_by('latin')
-    return render_template('/test2.html', test="13",stations=stations)
+    stations = []
+    try:
+        stations = linestation.objects()
+    except:
+        err = 1
+    return render_template('/test2.html', test=len(stations),stations=stations)
 
 @app.route("/search", methods=['GET', 'POST'])
 def search():
     stations=[]
-    #print('[enter search]')
     keyword = ''
     n = 0
     if request.method == "POST":
@@ -82,6 +105,49 @@ def search():
             keyword=request.form['keyword']
             stations=station.objects(name__contains=keyword).order_by('latin')
             n = len(stations)
-        except:
+        except Exception as e:
             err = 1
     return render_template('/search.html',stations=stations,number=n,keyword=keyword)
+
+@app.route("/station", methods=['GET','POST'])
+def showStation():
+    stations=[]
+    temp = []
+    stationName = None
+    lineName = None
+    theStation = None
+    theLine = None
+    n = 0
+    searchType = 'station'
+    try:
+        types = stationtype.objects()
+        stationName=request.args['stationName']
+        lineName=request.args['lineName']
+        if stationName and len(stationName)>1:
+            theStation = station.objects(name=stationName)[0]
+            stations=linestation.objects(stationName=stationName).order_by('startdate')
+        elif lineName and len(lineName)>1:
+            searchType = 'line'
+            stations=linestation.objects(lineName=lineName).order_by('order')
+            theLine = line.objects(name=lineName)[0]
+        for s in stations:
+            for t in types:
+                if s.type == t.typeId:
+                    s.typeName = t.name
+            temp.append(s)
+        n = len(temp)
+    except Exception as e:
+        err = 1
+
+    return render_template('/station.html',stations=temp,number=n,station=theStation,searchType=searchType,line=theLine)
+
+@app.route("/lines", methods=['GET','POST'])
+def showLines():
+    lines=[]
+    n = 0
+    try:
+        lines=line.objects().order_by('startdate')
+        n = len(lines)
+    except Exception as e:
+        err = 1
+    return render_template('/lines.html',lines=lines,number=n)

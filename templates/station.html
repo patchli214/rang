@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  <title>subway-station</title>
+  <style>
+    body{
+      color:#00000;
+      background: #FFFFFF;
+      margin:10px;
+      padding;10px;
+    }
+    .show{
+      color:#0000FF;
+      background: #FFFFFF;
+      margin:5px 0px;
+      padding;0px;
+    }
+    .nowrap{white-space: nowrap;}
+    .quarter{width:25%}
+    .twe{width:20%}
+  </style>
+  <script src="/static/js/jquery2.min.js"></script>
+</head>
+<body>
+    {%if station%}{{station.name}}: {{station.district}}, E{{station.longitude}}, N{{station.latitude}}{%endif%}
+    {%if searchType == 'line'%} {{line.name}}, {{line.company}}{%endif%}
+   <table style="width:100%">
+    {%if number>0%}
+    <tr>
+      <td class="quarter">{%if searchType == 'station'%}线路{%else%}站名{%endif%}</td>
+      {%if searchType == 'line'%}<td>距离</td>{%endif%}
+      <td class="nowrap" class="twe">类型</td>
+      <td >位置</td>
+      <td class="nowrap">最早开通时间</td>
+      <td class="nowrap">是否运营</td>
+  </tr>
+    {%for station in stations%}
+    <tr class="show">
+      <td>{%if searchType == 'line'%}<a href="/station?lineName=&stationName={{station.stationName}}">{{station.stationName}}</a>{%else%}<a href="/station?lineName={{station.lineName}}&stationName=">{{station.lineName}}</a>{%endif%}</td>
+{%if searchType == 'line'%}<td >{{station.distance}}米</td>{%endif%}
+      <td  class="quarter">{{station.typeName}}</td>
+      <td >{% if station.underground %}地下{%else%}地上{%endif%}</td>
+      <td class="nowrap">{%if station.startdate %}{{station.startdate.strftime('%Y-%m-%d') }}{%endif%}</td>
+      <td >{% if station.isRunning %}是{%else%}<font style="color:red">否</font>{%endif%}</td>
+    </tr>
+    {%endfor%}
+    {%endif%}
+</table>
+</body>
+</html>
+
+
+<script>
+
+</script>
