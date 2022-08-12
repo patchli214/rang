@@ -1,31 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+{% include 'header.html' %}
 
-  <title>subway-search</title>
-  <style>
-    body{
-      color:#00000;
-      background: #FFFFFF;
-      margin:10px;
-      padding;10px;
-    }
-    .show{
-      color:#0000FF;
-      background: #FFFFFF;
-      margin:5px 0px;
-      padding;0px;
-    }
-    .nowrap{white-space: nowrap;}
-    .quarter{width:25%}
-    .twe{width:20%}
-  </style>
-  <script src="/static/js/jquery2.min.js"></script>
-</head>
-<body>
-    <div><a href="/lines">北京地铁线路列表</a></div>
+
+    
   <form action="/search" method="post">
     <label>要查找的内容：</label>
     <input type="text" id="keyword" name="keyword" style="width:100px;"/>&nbsp;
