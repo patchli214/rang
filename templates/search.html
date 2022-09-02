@@ -1,13 +1,11 @@
 {% include 'header.html' %}
-
-
-    
+ <div style="margin:0 0 0 6px;">
   <form action="/search" method="post">
     <label>要查找的内容：</label>
     <input type="text" id="keyword" name="keyword" style="width:100px;"/>&nbsp;
     <input type="submit" value="查询" />
-  </form>
-  <p>共找到 <span class="show">{{number}}</span> 个含有【<span class="show">{{keyword}}</span>】的地铁站</p>
+</form></div>
+  <div style="margin:6px 0 0 6px;">共找到 <span class="show">{{number}}</span> 个含有【<span class="show">{{keyword}}</span>】的地铁站</div>
   <table style="width:100%">
     {%if number>0%}
     <tr>
